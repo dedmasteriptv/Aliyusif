@@ -98,7 +98,7 @@ http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
 #EXTINF:-1,Şaban tv
-#EXTGRP:-1,Azerbaycan
+#EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
 #EXTINF:-1,Az Film
 #EXTGRP:Azerbaycan
