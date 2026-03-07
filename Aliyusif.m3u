@@ -140,9 +140,9 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 tvg-name="PlayerCinema John Wick"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940a9b8fe87.png",PlayerCinema John Wick
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaJohnWick.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Squid Game 1"tvg-logo="https://img.catcast.tv/uploads/04032026/logos/27208-69a86a4e39608.png",PlayerCinema Squid Game 1
+#EXTINF:-1 tvg-name="PlayerCinema Squid Game 2"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 2
 #EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_SquidGame%20_1.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game2.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind Filmleri
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
@@ -203,12 +203,12 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerK
 #EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediSenerSen.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
-#EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmMasaVeAyi.m3u
 #EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerWWE.m3u8
+#EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmMasaVeAyi.m3u
 #EXTINF:-1 tvg-name="PlayerCizgiFilm SEVIMLILER"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983e5d6f4f5.png",PlayerCizgiFilm SEVIMLILER
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmSevimliler.m3u8
