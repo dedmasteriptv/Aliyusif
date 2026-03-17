@@ -238,6 +238,8 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerH
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
+https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10092025/banners/48076-68c1c541356ea.png",EKRAN85
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/rihattv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxZicm7.png", S TV
