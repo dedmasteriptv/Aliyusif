@@ -341,6 +341,9 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerK
 #EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerWWE.m3u8
+#EXTINF:-1 tvg-name="PlayerizgiFilm TOM ve JERRY"tvg-logo="https://img.catcast.tv/uploads/21032026/logos/27208-69bdb45804272.png",PlayerizgiFilm TOM ve JERRY
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_TOM-ve-JARRY.m3u8
 #EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmMasaVeAyi.m3u
