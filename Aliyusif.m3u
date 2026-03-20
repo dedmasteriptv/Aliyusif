@@ -393,7 +393,7 @@ http://xantv.site:41480/MahniTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
 #EXTGRP:Azerbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1,Azerbaijan Music Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbFG4MH/In-Shot-20250209-195400220.png",Azerbaijan Music Plus
 #EXTGRP:Azerbaycan
 https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png"  group-title="Azerbaycan", Music AZ HIT
@@ -403,24 +403,25 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png"  group-title="Azerbaycan", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
-#EXTINF:-1 group-title="Azerbaycan", Vostok tv(yoda.az)
-https://str.yodacdn.net/tmb/mono.ts.m3u8
-#EXTINF:-1,KANAL 65 Music
+#EXTINF:-1 tvg-id="VostokTV.ru" tvg-logo="https://i.imgur.com/X1RysL8.png" tvg-name="Восток ТВ" group-title="Azerbaycan",Vostok TV [720x576]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/megatvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
-#EXTINF:0 tvg-rec="0",Mugam dunyamiz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Mugam dunyamiz
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/b-kerimoff-Mugam-dunyamiz.m3u8
-#EXTINF:0 tvg-rec="0",Solo Konsert
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Solo Konsert
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by_kerimoff_solo_konsert.m3u8
-#EXTINF:-1,NOW Music tv az
+#EXTINF:-1tvg-logo="https://i.postimg.cc/nrKjK27R/In-Shot-20250214-113847550.png" ,NOW Music tv az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48110/seg-25410036-v1-a1/index.m3u8
-#EXTINF:-1,NOW Music az
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrKjK27R/In-Shot-20250214-113847550.png",NOW Music az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8
 #EXTINF:-1,Bayzan muzic
@@ -480,7 +481,8 @@ https://v2.catcast.tv/content/43075/seg-25410727-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9130.png", ATV Vivace AZ
 #EXTGRP:Azerbaycan
 http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16068/index.m3u8
-#EXTINF:-1 group-title="Azerbaycan", VIP TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCWDXCBG/VIP-TV-LOGO-FULL.png", VIP TV
+#EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpQsbxbw/S-hiyy-TV.png", Səhiyyə Tv
 #EXTGRP:Azerbaycan
