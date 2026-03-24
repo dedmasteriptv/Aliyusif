@@ -97,6 +97,9 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png",MR.BEAN
+#EXTGRP:Azerbaycan
+https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png", mr.bean
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/mrbean.m3u8
@@ -419,7 +422,7 @@ https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 https://cdn4.yayin.com.tr/baltvmusic/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2556.png"  group-title="Azerbaycan", Music AZ HIT
 https://cdn4.yayin.com.tr/musicazhit/video.m3u8
-#EXTINF:-1,Russian Music
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6532-3636-4163-a164-353430643662/RMP_LOGO_BLACK.png",Russian Music
 #EXTGRP:Azerbaycan
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png"  group-title="Azerbaycan", TMB TV
@@ -427,7 +430,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="VostokTV.ru" tvg-logo="https://i.imgur.com/X1RysL8.png" tvg-name="Восток ТВ" group-title="Azerbaycan",Vostok TV [720x576]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",MEGA TV Music
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/megatvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
@@ -457,7 +460,7 @@ https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png",Ulduz Music az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
-#EXTINF:-1,Music Tv Az
+#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png",Music Tv Az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50359/seg-25555275-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21012026/banners/50312-697110c9cedd5.png",ELA MUSIC turk
@@ -475,7 +478,7 @@ http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaycan
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/mtvaz/index.m3u8
-#EXTINF:-1,Hind Music
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/416/406/png-transparent-remix-music-disc-jockey-song-typo-miscellaneous-music-video-flower-thumbnail.png",Hind Music
 #EXTGRP:Azerbaycan
 https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
@@ -505,9 +508,18 @@ https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
-#EXTINF:-1,Sinema Masha i medved
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/843/693/png-transparent-masha-and-the-bear-illustration-masha-and-the-bear-stuffed-animals-cuddly-toys-animation-television-show-masha-and-the-bear-television-child-animals-thumbnail.png",Sinema Masha i medved
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейл HD
+#EXTGRP:Azerbaycan
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://images-s.kinorium.com/movie/logo/578724/h280_51498408.png" ,Маша и Медведь
+#EXTGRP:Azerbaycan
+https://glb.bozztv.com/glb/ushba79/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTDczZ19/image-15.png", Ералаш 
+#EXTGRP:Azerbaycan
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0NBNhsH/In-Shot-20250929-203142405.png",TOM and JERRY
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -526,9 +538,10 @@ http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2636.png", CBC Sport
 #EXTGRP:Azerbaycan
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaycan", Idman tv(yoda.az)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",Idman tv(yoda.az)
+#EXTGRP:Azerbaycan
 https://str2.yodacdn.net/idmantele/mono.ts.m3u8
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",Azerbaijan Gharbi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/250px-Urmia_TV.svg.png",Azerbaijan Gharbi
 #EXTGRP:Azerbaycan
 https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYd9RVqF/In-Shot-20250209-195931309.png",Son Umid TV
@@ -537,7 +550,6 @@ https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist_w2128397060.m3u
 #EXTINF:0 tvg-logo="https://i.postimg.cc/tJRmj6vV/In-Shot-20250209-204833425.png", ZAHRA TV
 #EXTGRP:Azerbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
-
 #EXTINF:-1,SDM Sinema keyfi
 #EXTGRP:TURK(URL)
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
@@ -597,7 +609,7 @@ https://v2.catcast.tv/content/50518/seg-25636631-v1-a1/index.m3u8
 #EXTGRP:TURK(URL)
 https://v2.catcast.tv/content/50313/seg-25729093-v1-a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",Mega TV Music
+#EXTINF:-1,Mega TV
 #EXTGRP:TURK(URL)
 http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
 #EXTINF:-1,Yağmur
@@ -1787,55 +1799,85 @@ https://v2.catcast.tv/content/37452/seg-25549925-v1-a1/index.m3u8
 
 #EXTINF:-1,Наше Мужское Кино
 #EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3
 #EXTINF:-1,Родное Кино
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Дом Кино
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,КиноХит
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Кинопоказ
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,ViJu TV 1000
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ViJu TV 1000 Рксскоe
 #EXTGRP:Cinerama.uz
-#EXTINF:-1,ViJu TV 1000 Рксское
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Индийское Кино
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Киносвидание
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,ТедеКафе
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,ViJu TV 1000 Action
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Cinema tv
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u
 #EXTINF:-1,КиноКомедия
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,Киномикс
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,КиноСемья
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTGRP:Cinerama.uz
 #EXTINF:-1,КиноСерия
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мужское Кино
+#EXTGRP:Cinerama.uz
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинопремера
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Сетанта спорт 2
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Сетанта спорт live
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Discovery
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Nauka
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Wild
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,National Geograpic
+#EXTGRP:Cinerama.uz
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матчь тв
+#EXTGRP:Cinerama.uz
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Cinerama.uz
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-name="",CINEMAN ACTION
 #EXTGRP:Kino Action
@@ -1874,6 +1916,16 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOs
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="ŞABAN",|TR| Kemal Sunal TV 1
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6325
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="ŞABAN",|TR| Kemal Sunal TV 2
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/101136
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="ŞABAN",TR: KEMAL SUNAL 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560719
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="ŞABAN",TR: KEMAL SUNAL 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560718
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="ŞABAN",TR: KEMAL SUNAL 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560717
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KEMAL SUNAL 2" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 2
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/583301
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KEMAL SUNAL 3" tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/Kemal.Sunal.png" group-title="ŞABAN",KEMAL SUNAL 3
@@ -2712,20 +2764,8 @@ http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621692
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/641596
 #EXTINF:-1 tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR | DIZI SON BÖLÜMLER",ANNEM ANKARA  ✅✅ SON BOLUM
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632381
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/660794
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ C Takımı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ C Takımı⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/660751
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ Little Siberia⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ Little Siberia⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/660624
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ Revelations 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ Revelations 2025⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/660621
 #EXTINF:-1 tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR | DIZI SON BÖLÜMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622095
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ Moana 2⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ Moana 2⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/659276
-#EXTINF:-1 tvg-id="" tvg-name="VIP CINEMA  ☪ Plankton⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIP CINEMA  ☪ Plankton⚡️
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/658376
 #EXTINF:-1 tvg-id="" tvg-name="SEN AĞLAMA İSTANBUL ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR | DIZI SON BÖLÜMLER",SEN AĞLAMA İSTANBUL ✅✅ SON BOLUM
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/636634
 #EXTINF:-1 tvg-id="" tvg-name="YABANİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR | DIZI SON BÖLÜMLER",YABANİ ✅✅ SON BOLUM
@@ -2754,123 +2794,6 @@ http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621690
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622094
 #EXTINF:-1 tvg-id="" tvg-name="HOLDİNG ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR | DIZI SON BÖLÜMLER",HOLDİNG ✅✅ SON BOLUM
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/634758
-
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596090
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596091
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596092
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596095
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596098
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596099
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596101
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596102
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596103
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596322
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596323
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596324
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596325
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596326
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596327
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596328
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596329
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596330
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596394
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596395
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596396
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596397
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596398
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596399
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596400
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596401
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596402
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596403
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596404
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596405
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596406
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599173
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599172
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599171
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599170
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599169
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599168
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599167
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/599166
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597479
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597478
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597477
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597476
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597475
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597474
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597473
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597472
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597471
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597470
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/597469
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/596407
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609910
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609909
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609908
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609907
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609906
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609905
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/609904
 
 #EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="b**N MOVIES TURK FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="TR | D-SMART&BEIN SINEMA",b**N MOVIES TURK FHD
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/571871
@@ -4635,124 +4558,8 @@ http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/594678
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/594677
 #EXTINF:-1 tvg-id="" tvg-name="TR COCUK ANİMASYON 7/24 | 10. SALON" tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR | COCUK SINEMA 7/24",TR COCUK ANİMASYON 7/24 | 10. SALON
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/594676
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596090
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596091
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596092
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596095
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596098
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596099
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596101
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596102
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596103
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596322
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596323
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596324
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596325
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596326
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596327
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596328
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596329
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596330
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596394
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596395
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596396
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596397
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596398
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596399
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596400
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596401
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596402
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596403
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596404
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596405
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596406
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599173
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599172
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599171
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599170
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599169
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599168
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599167
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/599166
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597479
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597478
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597477
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597476
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597475
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597474
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597473
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597472
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597471
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597470
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/597469
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/596407
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609910
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609909
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609908
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609907
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609906
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609905
-#EXTINF:-1 tvg-id="" tvg-name="VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/609904
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ TİVİBU & DSMART ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/tr.png" group-title="TR | D-SMART&BEIN SINEMA",★☆★ TİVİBU & DSMART ★☆★
-http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/571909
+
+
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX FHD" tvg-logo="https://tvlogo.nl/files/ch/TR/fx.png" group-title="TR | D-SMART&BEIN SINEMA",FX FHD
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/571908
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="FX HD" tvg-logo="https://tvlogo.nl/files/ch/TR/fx.png" group-title="TR | D-SMART&BEIN SINEMA",FX HD
@@ -4971,28 +4778,7 @@ http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/571848
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/571847
 #EXTINF:-1 tvg-id="" tvg-name="b**N SERIES 4 HD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-4eno.png" group-title="TR | D-SMART&BEIN SINEMA",b**N SERIES 4 HD
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/571846
-#EXTINF:-1 tvg-id="" tvg-name="SALON INFO 2  ☪ SİNEVİZYON (2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR | ☪ SİNEVİZYON ☪",SALON INFO 2  ☪ SİNEVİZYON (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/TR.INFO.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 1 ☪ Wingwomen (2023)" tvg-logo="https://i.ebayimg.com/images/g/EcMAAOSwG91lQweR/s-l1600.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 1 ☪ Wingwomen (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/1.Wingwomen.2023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 2 ☪ Transformers: Rise of the Beasts  (2023)" tvg-logo="https://assets-prd.ignimgs.com/2023/06/05/rise-of-the-beasts-1685990428483.jpeg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 2 ☪ Transformers: Rise of the Beasts  (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/2.Transformers.Rise.Of.The.Beasts.2023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 3 ☪ Locked In (2023)" tvg-logo="https://i.ytimg.com/vi/3GkeiiMENuA/hqdefault.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 3 ☪ Locked In (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/3.Locked.In.2023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 4 ☪ Gran Turismo (2023)" tvg-logo="https://lzd-img-global.slatic.net/g/ff/kf/Sc977ad2007494f7a9f0ccc4f768eefa2f.jpg_720x720q80.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 4 ☪ Gran Turismo (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/4.Gran.Turismo.(2023).mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 5 ☪ The Pope's Exorcist (2023)" tvg-logo="https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/the-popes-exorcist-2023/large_the-popes-exorcist-movie-poster-2023.jpeg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 5 ☪ The Pope's Exorcist (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/5.The.Popes.Exorcist.2023.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 6 ☪ Ataturk 1881 1919 (2023)" tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/23/10/23/10/35/3070766.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 6 ☪ Ataturk 1881 1919 (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/6.Ataturk.1881.1919.(2023).mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 7 ☪ The Tomorrow Job (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4NzdiNjAtYzkzNC00MjQwLWFjZDktMDM3YTg3YzIwMDdiXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 7 ☪ The Tomorrow Job (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/7.The.Tomorrow.Job.(2023).mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 8 ☪ The Flash (2023)" tvg-logo="https://netnaija.ng/wp-content/uploads/2023/06/images-37.jpeg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 8 ☪ The Flash (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/8.The.Flash.(2023).mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 9 ☪ Prestij Meselesi (2023)" tvg-logo="https://www.diziyo.site/wp-content/uploads/2023/10/huO4KHMWxIHV8zalUBsWkNTL1el-185x278.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 9 ☪ Prestij Meselesi (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/9.Prestij.Meselesi.(2023).mkv
-#EXTINF:-1 tvg-id="" tvg-name="SINEMA 10 ☪ Hız Ve Öfkeli 10 (2023)" tvg-logo="https://img.youtube.com/vi/eHvwAzIfKdk/hqdefault.jpg" group-title="TR | ☪ SİNEVİZYON ☪",SINEMA 10 ☪ Hız Ve Öfkeli 10 (2023)
-http://92.246.87.92:8080/STORE/TURK.VIZYON/10.Fast.X.(2023).mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="PROTURK LOCA" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="TR | REDBOX / CINEMA MIX",PROTURK LOCA
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/151204
 #EXTINF:-1 tvg-id="" tvg-name="PROTURK ACTiON" tvg-logo="https://ihob.net/images/2021/08/29/P1.png" group-title="TR | REDBOX / CINEMA MIX",PROTURK ACTiON
@@ -6219,6 +6005,421 @@ http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/672013
 http://focusmag.eu01.live:8080/sayginsalihalm/wXPBGXqEcT/672012
 
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/KANAL.5.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 7 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560837
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 6 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/KANAL.4.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 6 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560838
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/KANAL.3.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560839
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/KANAL.2.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560840
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/KANAL.1.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560841
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.2.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560842
+#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/MARVEL/BLUE.MARVEL.1.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: MARVEL STUDIOS 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560843
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.2.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: WESTERN STUDIOS 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560844
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 3 HD" tvg-logo="" group-title="TR/ 7/24 MARWEL & WESTERN",TR: WESTERN STUDIOS 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560845
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 4 HD" tvg-logo="" group-title="TR/ 7/24 MARWEL & WESTERN",TR: WESTERN STUDIOS 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560846
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 5 HD" tvg-logo="" group-title="TR/ 7/24 MARWEL & WESTERN",TR: WESTERN STUDIOS 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560847
+#EXTINF:-1 tvg-id="" tvg-name="TR: WESTERN STUDIOS 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/WESTERN.1.png" group-title="TR/ 7/24 MARWEL & WESTERN",TR: WESTERN STUDIOS 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560848
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 5 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.5.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX 5 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560850
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 4 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.4.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX 4 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560851
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 3 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.3.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX 3 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560852
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 2 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.2.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX 2 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560853
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX 1 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KANAL.1.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX 1 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560854
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Su? ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/SUC.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Su? ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560855
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Fantastik ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/FANTASTIK.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Fantastik ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560856
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Romantik ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/ROMANTIK.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Romantik ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560857
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Korku ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KORKU.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Korku ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560858
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Komedi ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/KOMEDI.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Komedi ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560859
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gizem ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GIZEM.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Gizem ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560860
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gerilim ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/GERILIM.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Gerilim ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560861
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Dram ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/DRAM.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Dram ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560862
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Bilimkurgu ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/BILIM.KURGU.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Bilimkurgu ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560863
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Macera ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/MACERA.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Macera ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560864
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Aksiyon ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/NETFLIX/AKSIYON.png" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Aksiyon ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560865
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Belgesel ??" tvg-logo="" group-title="TR/ 7/24 NETLIFX CINEMA",TR: NETFLIX Belgesel ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560866
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: PRISON BREAK ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/PRISON.BREAK.png" group-title="TR/ 7/24 YABANCI DIZI",TR: PRISON BREAK ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560868
+#EXTINF:-1 tvg-id="" tvg-name="TR: LA CASA DE PAPEL ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/LA.CASA.DE.PAPEL.png" group-title="TR/ 7/24 YABANCI DIZI",TR: LA CASA DE PAPEL ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560869
+#EXTINF:-1 tvg-id="" tvg-name="TR: V?K?NGS ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/VIKINGLER.png" group-title="TR/ 7/24 YABANCI DIZI",TR: V?K?NGS ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560870
+#EXTINF:-1 tvg-id="" tvg-name="TR: GAME of THRONES ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/GAME.OF.THRONES.png" group-title="TR/ 7/24 YABANCI DIZI",TR: GAME of THRONES ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560871
+#EXTINF:-1 tvg-id="" tvg-name="TR: 32. G?n HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: 32. G?n HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560872
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cennet Mahallesi ??" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: Cennet Mahallesi ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560873
+#EXTINF:-1 tvg-id="" tvg-name="TR: 7 Numara HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: 7 Numara HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560874
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bizimkiler HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: Bizimkiler HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560875
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akasya Dura?? HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: Akasya Dura?? HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560876
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ezel HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: Ezel HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560877
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDHO HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: EDHO HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560878
+#EXTINF:-1 tvg-id="" tvg-name="TR: Leyla ile Mecnun HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: Leyla ile Mecnun HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560879
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?lk Bulu?ma ??" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: ?lk Bulu?ma ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560880
+#EXTINF:-1 tvg-id="" tvg-name="?  ? D?Z? 24/7  ? ?" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/BAYRAK.png" group-title="TR/ 7/24 YERLI DIZI",?  ? D?Z? 24/7  ? ?
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560881
+#EXTINF:-1 tvg-id="" tvg-name="TR: MUHTE?EM Y?ZYIL ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/MUHTESEM.YUZYIL.png" group-title="TR/ 7/24 YERLI DIZI",TR: MUHTE?EM Y?ZYIL ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560882
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURTLAR VAD?S? PUSU ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KURTLAR.VADISI.PUSU.png" group-title="TR/ 7/24 YERLI DIZI",TR: KURTLAR VAD?S? PUSU ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560883
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ??ERDE ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/ICERDE.png" group-title="TR/ 7/24 YERLI DIZI",TR: BlueTV ??ERDE ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560884
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?OK G?ZEL HAREKET BUNLAR 2 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/COK.GUZEL.HAREKETLER.png" group-title="TR/ 7/24 YERLI DIZI",TR: ?OK G?ZEL HAREKET BUNLAR 2 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560885
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV  SQUID GAME ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SQUID.GAME.png" group-title="TR/ 7/24 YERLI DIZI",TR: BlueTV  SQUID GAME ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560886
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARDE? PAYI ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KARDES.PAYI.png" group-title="TR/ 7/24 YERLI DIZI",TR: KARDE? PAYI ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560887
+#EXTINF:-1 tvg-id="" tvg-name="TR: D?R?L?? ERTU?RUL ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/DIRILIS.ERTUGRUL.png" group-title="TR/ 7/24 YERLI DIZI",TR: D?R?L?? ERTU?RUL ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560888
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOKA?IN COCUKLARI ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SOKAGIN.COCUKLARI.png" group-title="TR/ 7/24 YERLI DIZI",TR: SOKA?IN COCUKLARI ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560889
+#EXTINF:-1 tvg-id="" tvg-name="TR: KURTLAR VAD?S? ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KURTLAR.VADISI.png" group-title="TR/ 7/24 YERLI DIZI",TR: KURTLAR VAD?S? ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560890
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUZEY & G?NEY ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/KUZEY.GUNEY.png" group-title="TR/ 7/24 YERLI DIZI",TR: KUZEY & G?NEY ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560891
+#EXTINF:-1 tvg-id="" tvg-name="TR: A?K-I MEMNU ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/ASKI.MEMNU.png" group-title="TR/ 7/24 YERLI DIZI",TR: A?K-I MEMNU ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560892
+#EXTINF:-1 tvg-id="" tvg-name="TR: G?LD?R G?LD?R  ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/GULDUR.GULDUR.png" group-title="TR/ 7/24 YERLI DIZI",TR: G?LD?R G?LD?R  ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560893
+#EXTINF:-1 tvg-id="" tvg-name="TR: SIFIR B?R ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/SIFIR.BIR.png" group-title="TR/ 7/24 YERLI DIZI",TR: SIFIR B?R ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560894
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV ?UKUR ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/DIZI/CUKUR.png" group-title="TR/ 7/24 YERLI DIZI",TR: BlueTV ?UKUR ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560895
+#EXTINF:-1 tvg-id="" tvg-name="TR: GADDAR HD" tvg-logo="" group-title="TR/ 7/24 YERLI DIZI",TR: GADDAR HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560896
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 1 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6195
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 2 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6196
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Box Office 3 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_box_office_3.png" group-title="TR/ BEIN SINEMA",|TR| beIN Box Office 3 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6197
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Action 1 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6198
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Action 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_action_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Action 2 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6199
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premiere_1.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Premier 1 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6200
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Premier 2 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_premire_2.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Premier 2 FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6201
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Turk FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_turk.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Turk FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6202
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Movies Family FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_movies_family.png" group-title="TR/ BEIN SINEMA",|TR| beIN Movies Family FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6204
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series SCI FI FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_sc-fi.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series SCI FI FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/457101
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Vice FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_vice.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Vice FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/125800
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Comedy FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_comedy.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Comedy FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6205
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series Drama FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_series_drama.png" group-title="TR/ BEIN SINEMA",|TR| beIN Series Drama FHD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/457102
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dizi Smart Premium HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_of_DiziSmart_Premium_HD.png" group-title="TR/ D-SMART SINEMA",TR: Dizi Smart Premium HD+
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/192219
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Premium" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_premium.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Premium
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6183
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_turk.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Türk
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6182
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Platin Hd" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_platin_2.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Platin Hd
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6184
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Classic" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_classic.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Classic
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6188
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Moviesmart Action" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/movismart_action.png" group-title="TR/ D-SMART SINEMA",|TR| Moviesmart Action
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6190
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/113291
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvhd.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123920
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aksiyon" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaksiyon.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aksiyon
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/113293
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1001" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematv1001.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1001
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123921
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV 1002" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinema-1002.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV 1002
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123922
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Aile" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvaile.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Aile
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123923
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Komedi" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvkomedi.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Komedi
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123924
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV Yerli" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/tivibu-sinema-logolar/sinematvyerli.png" group-title="TR/ TIVIBU SINEMA",|TR| Sinema TV Yerli
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/123925
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Kemal Sunal TV 1
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/6325
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ YESILCAM LOCA",|TR| Kemal Sunal TV 2
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/101136
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.1.png" group-title="TR/ YESILCAM LOCA",TR: KEMAL SUNAL 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560719
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.2.png" group-title="TR/ YESILCAM LOCA",TR: KEMAL SUNAL 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560718
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KEMAL.SUNAL.3.png" group-title="TR/ YESILCAM LOCA",TR: KEMAL SUNAL 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560717
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/UHD.1.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560695
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/UHD.2.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560694
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.1.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560716
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.2.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560715
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 6 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.3.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 6 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560714
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 7 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.4.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 7 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560713
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEŞİLÇAM 8 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KANAL.5.png" group-title="TR/ YESILCAM LOCA",TR: YEŞİLÇAM 8 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560712
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARTAL TİBET  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KARTAL.TIBET.png" group-title="TR/ YESILCAM LOCA",TR: KARTAL TİBET  HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560697
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/HABABAM.SINIFI.png" group-title="TR/ YESILCAM LOCA",TR: HABABAM SINIFI HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560698
+#EXTINF:-1 tvg-id="" tvg-name="TR: KÜÇÜK EMRAH" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KUCUK.EMRAH.png" group-title="TR/ YESILCAM LOCA",TR: KÜÇÜK EMRAH
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560699
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIK AKAN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/TARIK.AKAN.png" group-title="TR/ YESILCAM LOCA",TR: TARIK AKAN HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560704
+#EXTINF:-1 tvg-id="" tvg-name="TR: SADRİ ALIŞIK  HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/SADRI.ALISIK.png" group-title="TR/ YESILCAM LOCA",TR: SADRİ ALIŞIK  HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560705
+#EXTINF:-1 tvg-id="" tvg-name="TR: ORHAN GENCEBAY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/ORHAN.GENCEBAY.png" group-title="TR/ YESILCAM LOCA",TR: ORHAN GENCEBAY HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560706
+#EXTINF:-1 tvg-id="" tvg-name="TR: MÜSLÜM GÜRSES HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/MUSLUM.GURSES.png" group-title="TR/ YESILCAM LOCA",TR: MÜSLÜM GÜRSES HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560707
+#EXTINF:-1 tvg-id="" tvg-name="TR: KADİR İNANIR HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/YESILCAM/KADIR.INANIR.png" group-title="TR/ YESILCAM LOCA",TR: KADİR İNANIR HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560708
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.STAR.WARS.png" group-title="TR/ 7/24 CINEBOX",TR: MAX STAR WARS HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560744
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX WESTERN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.WESTERN.png" group-title="TR/ 7/24 CINEBOX",TR: MAX WESTERN HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560745
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.GOLD.png" group-title="TR/ 7/24 CINEBOX",TR: MAX GOLD HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560746
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.TURK.png" group-title="TR/ 7/24 CINEBOX",TR: MAX TURK HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560747
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX V?ZYON 1 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.KANAL.1.png" group-title="TR/ 7/24 CINEBOX",TR: MAX V?ZYON 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560748
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX V?ZYON 2 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.KANAL.2.png" group-title="TR/ 7/24 CINEBOX",TR: MAX V?ZYON 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560749
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX V?ZYON 3 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.KANAL.3.png" group-title="TR/ 7/24 CINEBOX",TR: MAX V?ZYON 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560750
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PREMIER HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.PREMIER.png" group-title="TR/ 7/24 CINEBOX",TR: MAX PREMIER HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560751
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKS?YON 2 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.AKSIYON.2.png" group-title="TR/ 7/24 CINEBOX",TR: MAX AKS?YON 2 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560752
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX AKS?YON 1 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.AKSIYON.1.png" group-title="TR/ 7/24 CINEBOX",TR: MAX AKS?YON 1 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560753
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX V?ZYON 4 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.KANAL.4.png" group-title="TR/ 7/24 CINEBOX",TR: MAX V?ZYON 4 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560754
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX ORJ?NAL ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/CINEBOX/MAX.VIZYON.ORJINAL.png" group-title="TR/ 7/24 CINEBOX",TR: MAX ORJ?NAL ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560755
+#EXTINF:-1 tvg-id="" tvg-name="TR:  JACKIE CHAN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JAKIE.CHAN.png" group-title="TR/ 7/24 CINEBOX",TR:  JACKIE CHAN HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560756
+#EXTINF:-1 tvg-id="" tvg-name="TR: TESTERE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/TESTERE.png" group-title="TR/ 7/24 CINEBOX",TR: TESTERE HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560757
+#EXTINF:-1 tvg-id="" tvg-name="TR: POL?S AKADEM?S? HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/POLIS.AKADEMISI.png" group-title="TR/ 7/24 CINEBOX",TR: POL?S AKADEM?S? HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560758
+#EXTINF:-1 tvg-id="" tvg-name="TR: JASON STATHAM HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JASON.STATHAM.png" group-title="TR/ 7/24 CINEBOX",TR: JASON STATHAM HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560759
+#EXTINF:-1 tvg-id="" tvg-name="TR: VAN DAMME HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/VAN.DAMME.png" group-title="TR/ 7/24 CINEBOX",TR: VAN DAMME HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560760
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRUCE LEE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/BRUCE.LEE.png" group-title="TR/ 7/24 CINEBOX",TR: BRUCE LEE HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560761
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV D?V?? ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/DOVUS.png" group-title="TR/ 7/24 CINEBOX",TR: BlueTV D?V?? ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560762
+#EXTINF:-1 tvg-id="" tvg-name="TR: 13. CUMA HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/13.CUMA.png" group-title="TR/ 7/24 CINEBOX",TR: 13. CUMA HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560763
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALACAKARANLIK HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/ALACAKARANLIK.png" group-title="TR/ 7/24 CINEBOX",TR: ALACAKARANLIK HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560764
+#EXTINF:-1 tvg-id="" tvg-name="TR: YERALTI CANAVARI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YERALTI.CANAVARI.png" group-title="TR/ 7/24 CINEBOX",TR: YERALTI CANAVARI HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560765
+#EXTINF:-1 tvg-id="" tvg-name="TR: YEN?LMEZLER HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/YENILMEZLER.png" group-title="TR/ 7/24 CINEBOX",TR: YEN?LMEZLER HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560766
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR WARS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/STAR.WARS.png" group-title="TR/ 7/24 CINEBOX",TR: STAR WARS HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560767
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?AFAK SEZER HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/SAFAK.SEZER.png" group-title="TR/ 7/24 CINEBOX",TR: ?AFAK SEZER HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560768
+#EXTINF:-1 tvg-id="" tvg-name="TR: RAMBO HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RAMBO.png" group-title="TR/ 7/24 CINEBOX",TR: RAMBO HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560769
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?R?MCEK ADAM HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/ORUMCEK.ADAM.png" group-title="TR/ 7/24 CINEBOX",TR: ?R?MCEK ADAM HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560770
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?L?MC?L DENEY HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/OLUMCUL.DENEY.png" group-title="TR/ 7/24 CINEBOX",TR: ?L?MC?L DENEY HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560771
+#EXTINF:-1 tvg-id="" tvg-name="TR: ?L?M YARI?I HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/OLUM.YARISI.png" group-title="TR/ 7/24 CINEBOX",TR: ?L?M YARI?I HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560772
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAYMUNLAR CEHENNEM? HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/MAYMUNLAR.CEHENNEMI.png" group-title="TR/ 7/24 CINEBOX",TR: MAYMUNLAR CEHENNEM? HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560773
+#EXTINF:-1 tvg-id="" tvg-name="TR: KORKUN? B?R F?LM HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/KORKUNC.BIR.FILM.png" group-title="TR/ 7/24 CINEBOX",TR: KORKUN? B?R F?LM HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560774
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARAY?P KORSANLARI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/KARAYIP.KORSANLARI.png" group-title="TR/ 7/24 CINEBOX",TR: KARAY?P KORSANLARI HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560775
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV JAMES BOND ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/JAMES.BOND.png" group-title="TR/ 7/24 CINEBOX",TR: BlueTV JAMES BOND ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560776
+#EXTINF:-1 tvg-id="" tvg-name="TR: HIZLI VE ?FKEL? HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/HIZLI.VE.OFKELI.png" group-title="TR/ 7/24 CINEBOX",TR: HIZLI VE ?FKEL? HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560777
+#EXTINF:-1 tvg-id="" tvg-name="TR: BlueTV HARRY POTER ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/HARRY.POTTER.png" group-title="TR/ 7/24 CINEBOX",TR: BlueTV HARRY POTER ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560778
+#EXTINF:-1 tvg-id="" tvg-name="TR: G?REV?M?Z TEHL?KE HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/GOREVIMIZ.TEHLIKE.png" group-title="TR/ 7/24 CINEBOX",TR: G?REV?M?Z TEHL?KE HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560779
+#EXTINF:-1 tvg-id="" tvg-name="TR: AMER?KAN PASTASI HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/AMERICAN.PASTASI.png" group-title="TR/ 7/24 CINEBOX",TR: AMER?KAN PASTASI HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560780
+#EXTINF:-1 tvg-id="" tvg-name="TR: GODZ?LLA & KONG HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/GODZILLA.KONG.png" group-title="TR/ 7/24 CINEBOX",TR: GODZ?LLA & KONG HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560781
+#EXTINF:-1 tvg-id="" tvg-name="TR: X-MEN HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/X.MEN.png" group-title="TR/ 7/24 CINEBOX",TR: X-MEN HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560782
+#EXTINF:-1 tvg-id="" tvg-name="TR: RECEP ?VED?K HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEBOX/RECEP.IVEDIK.png" group-title="TR/ 7/24 CINEBOX",TR: RECEP ?VED?K HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560783
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 2 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.2.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 2 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560785
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 1 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.1.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 1 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560786
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 4 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.4.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 4 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560787
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 10 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.10.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 10 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560788
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM  9 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.9.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM  9 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560789
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 8 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.8.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 8 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560790
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 7 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.7.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 7 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560791
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 6 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.6.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 6 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560792
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 5 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.5.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 5 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560793
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Gerilim ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/GERILIM.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Gerilim ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560794
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Fantastik ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/FANTASTIIK.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Fantastik ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560795
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Bollywood ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/BOLLYWOOD.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Bollywood ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560796
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Macera ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/MACERA.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Macera ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560797
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Animasyon ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/ANIMASYON.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Animasyon ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560798
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Gizem ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/GIZEM.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Gizem ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560799
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 5 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.5.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Yerli 5 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560800
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 4 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.4.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Yerli 4 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560801
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 3 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.3.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Yerli 3 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560802
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 2 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.2.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Yerli 2 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560803
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Yerli 1 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/YERLI.1.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Yerli 1 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560804
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Romantik ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/ROMANTIK.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Romantik ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560805
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Korku  ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/KORKU.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Korku  ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560806
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Dram ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/DRAM.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Dram ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560807
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Su? ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/SUC.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Su? ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560808
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Komedi ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/KOMEDI.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Komedi ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560809
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Bilimkurgu ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/BILIM.KURGU.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Bilimkurgu ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560810
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM Aksiyon ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/AKSIYON.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM Aksiyon ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560811
+#EXTINF:-1 tvg-id="" tvg-name="TR: CINEMAXIMUM 3 ??" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/TR/CINEMAXIMUM/CINEMAXIMUM.3.png" group-title="TR/ 7/24 CINEMAXIMUM",TR: CINEMAXIMUM 3 ??
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/560812
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445231
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445232
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445233
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445234
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445235
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 6 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445236
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 7 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445237
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 8 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445238
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 9 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445239
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Box Sinema 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxboxtv.png" group-title="TR/ MaximTV BOX SINEMA",|TR| MaximTV Box Sinema 10 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/445240
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350781
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350782
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350783
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350784
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350785
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 6 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350786
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 7 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350787
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 8 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350788
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 9 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350789
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Maxim Film Modu 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmmodu.png" group-title="TR/ MaximTV FILM MODU",|TR| Maxim Film Modu 10 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/350790
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 1 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452845
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 2 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452846
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 3 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452847
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 4 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452848
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 5 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452849
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 6 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452850
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 7 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452851
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 8 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452852
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 9 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452853
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MaximTV Sinema 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/tv-sinema.png" group-title="TR/ MaximTV SINEMA",|TR| MaximTV Sinema 10 HD
+http://yrtds0911.xyz:8080/cmm8078/cmm.2201/452854
 
 
 #EXTINF:-1 group-title="TR-Sinema",TR: UNIVERSAL SONVIZYON
