@@ -299,9 +299,21 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerC
 #EXTINF:-1 tvg-name="PlayerCinema John Wick"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940a9b8fe87.png",PlayerCinema John Wick
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaJohnWick.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind Filmleri"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind Filmleri
+#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-1"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-1
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-2.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-3"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-3
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-3.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-4"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-4
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-4.m3u8
+#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-5"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-5
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-5.m3u8
 #EXTINF:-1 tvg-name="PlayerFilm QARABAĞ DÖYÜŞLERİ"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b18a86803.png",PlayerFilm QARABAĞ DÖYÜŞLERİ
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilm%20QARABAG%20DOYUSLERI.m3u8
