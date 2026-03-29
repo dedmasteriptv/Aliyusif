@@ -148,6 +148,9 @@ https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50908/seg-26004931-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde+
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50912/seg-26005180-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50170/seg-25409947-v1-a1/index.m3u8
