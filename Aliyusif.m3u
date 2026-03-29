@@ -97,6 +97,9 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",-belgesel
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50903/seg-26002713-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png",MR.BEAN
 #EXTGRP:Azerbaycan
 https://fl1001.bozztv.com/ushba45/index.m3u8
@@ -118,6 +121,9 @@ https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",SIRIUS TV AZ film
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50904/seg-26002688-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-hind-filmleri
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50901/seg-25997429-v1-a1/index.m3u8
