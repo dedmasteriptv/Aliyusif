@@ -360,6 +360,9 @@ https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCine
 #EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmAZE.m3u8
+#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN-2"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN-2
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerFilm-AZERBAYCAN-2.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Az Film"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b3ee28d791.png",PlyerKomedi Az Film
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediAzFilm1.m3u8
