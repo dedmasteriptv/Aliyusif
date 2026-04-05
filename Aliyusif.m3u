@@ -169,6 +169,40 @@ https://v2.catcast.tv/content/50271/seg-25410155-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FIeuoBC.png", kanal F yeşilçamᵀᴿ
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50823.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wMWI2w.png", kanal F çocukᵀᴿ
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50822.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png", kanal F muzikᵀᴿ
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50859.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50498.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
+#EXTGRP:Azerbaycan
+http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
+#EXTGRP:Azerbaycan
+http://104.238.23.182/d/live/out.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tv2ᵀᴿ
+#EXTGRP:Azerbaycan
+http://5.178.103.239:55/d/live/out.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
+#EXTGRP:Azerbaycan
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
+#EXTGRP:Azerbaycan
+http://104.238.23.221/BoncukTV/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV music
 #EXTGRP:Azerbaycan
@@ -2436,147 +2470,415 @@ http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/869393
 #EXTINF:-1 tvg-id="" tvg-name="СТРК" tvg-logo="http://peaktv.su/img/logos/films/strk.png" group-title="RU | Кино | CINEMA",СТРК
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/869392
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZILCIK SERBETI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIZILCIK SERBETI ✅✅  SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Tasacak Bu Deniz   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Tasacak Bu Deniz   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/611864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ARKA SOKAKLAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ARKA SOKAKLAR ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551586
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sevdiğim Sensin ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Sevdiğim Sensin ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/622338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Halef: Köklerin Çağrısı  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Halef: Köklerin Çağrısı  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608615
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Veliaht  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Veliaht  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ESREF RUYA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ESREF RUYA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/583906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Yeraltı  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Yeraltı  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/621626
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kuruluş Orhan  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Kuruluş Orhan  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/613929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MEHMET FETIHLER SULTANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",MEHMET FETIHLER SULTANI ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552676
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UZAK SEHIR    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",UZAK SEHIR    ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/562305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cennetin Çocukları  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Cennetin Çocukları  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doktor: Başka Hayatta ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0upbqBdvweAch5jW2dj6RVYu0s.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Doktor: Başka Hayatta ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/625861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Çirkin  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Çirkin  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/625860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TESKILAT  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",TESKILAT  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aynı Yağmur Altında ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Aynı Yağmur Altında ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/622339
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güldür Güldür Show    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Güldür Güldür Show    ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/558152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GONUL DAGI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GONUL DAGI ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551657
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Güller ve Günahlar  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Güller ve Günahlar  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/612048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="A.B.I  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",A.B.I  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/619726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kıskanmak ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Kıskanmak ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608286
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KONUSANLAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KONUSANLAR  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/553094
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Çok Güzel Hareketler 2     ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Çok Güzel Hareketler 2     ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/560489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sahtekarlar  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Sahtekarlar  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/612106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="INCI TANELERI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",INCI TANELERI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/554905
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAHIPSIZLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SAHIPSIZLER  ✅✅ SON BOLUM
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Rüya Gibi  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Rüya Gibi  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/617534
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ben Leman   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Ben Leman   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/611199
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sakıncalı   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Sakıncalı   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/616127
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BAHAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BAHAR ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552675
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Gözleri Karadeniz   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Gözleri Karadeniz   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607194
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KRAL KAYBEDERSE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KRAL KAYBEDERSE  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/576511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CARPINTI   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CARPINTI   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607192
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bereketli Topraklar   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Bereketli Topraklar   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/614395
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aynadaki Yabancı    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Aynadaki Yabancı    ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/611201
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ben Onun Annesiyim  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Ben Onun Annesiyim  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/613280
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aşk ve Gözyaşı   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Aşk ve Gözyaşı   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608644
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CAN BORCU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CAN BORCU  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/567915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AILE SAADETI   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZucEzPzz8fn4pAZDqmHDDtmW8m.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",AILE SAADETI   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/595302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CIFT KISILIK ODA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jknzzAm6YU6RhXU0rFPazcR7GZK.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",CIFT KISILIK ODA   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/592638
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LEYLA   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",LEYLA   ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KURULUS OSMAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KURULUS OSMAN  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/553834
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR GECE MASALI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BIR GECE MASALI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BIR ZAMANLAR ISTANBUL ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/576273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIYAH KALP  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SIYAH KALP  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552134
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Kudüs Fatihi: Selahaddin Eyyubi ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/558151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DEHA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",DEHA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552517
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HUDUTSUZ SEVDA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzx60VbvN46YdGDeobWXddr5ze.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",HUDUTSUZ SEVDA ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/553085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUSTALI CEYLAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SUSTALI CEYLAN  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/586340
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIZIL GONCALAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIZIL GONCALAR  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/553352
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARDELENLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARDELENLER  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/575043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAKIRPASA AILESI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SAKIRPASA AILESI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/567409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BASKA BIR GUN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",BASKA BIR GUN  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/574857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PİYASA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",PİYASA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/577986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALI CAPKINI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YALI CAPKINI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551590
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ZEMBILLI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ZEMBILLI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/569516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ANNEM ANKARA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/563709
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",SEN AGLAMA ISTANBUL  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/566893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YABANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YABANI ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551658
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YALAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",YALAN  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Holding  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",Holding  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/566613
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARA AGAC DESTANI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARA AGAC DESTANI ✅✅  SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ASK EVLILIK BOSANMA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",ASK EVLILIK BOSANMA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/563576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KALPAZAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KALPAZAN  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/558150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GIZLI BAHCE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GIZLI BAHCE  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/555536
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KIRLI SEPETI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KIRLI SEPETI ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KARADUT ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KARADUT ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552549
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",GUZEL  ASKLAR DIYARI  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552548
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TAS KAGIT MAKAS ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",TAS KAGIT MAKAS ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOR NOKTA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KOR NOKTA  ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/552462
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KOTU KAN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR ⭐ DIZI SON BOLUMLER",KOTU KAN ✅✅ SON BOLUM
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/551588
 
-#EXTINF:-1 tvg-id="" tvg-name="A.B.I  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="TR | DIZI SON BÖLÜMLER",A.B.I  ✅✅ SON BOLUM
-http://102.165.23.230:8080/STORE/DIZI.SON.BOLUMLER/A.B.I.SON.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kıskanmak   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="TR | DIZI SON BÖLÜMLER",Kıskanmak   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/700561
-#EXTINF:-1 tvg-id="" tvg-name="MEHMED FETİHLER SULTANI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR | DIZI SON BÖLÜMLER",MEHMED FETİHLER SULTANI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622491
-#EXTINF:-1 tvg-id="" tvg-name="Aynı Yağmur Altında ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="TR | DIZI SON BÖLÜMLER",Aynı Yağmur Altında ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/871772
-#EXTINF:-1 tvg-id="" tvg-name="UZAK ŞEHİR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR | DIZI SON BÖLÜMLER",UZAK ŞEHİR ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/629643
-#EXTINF:-1 tvg-id="" tvg-name="Cennetin Çocukları   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR | DIZI SON BÖLÜMLER",Cennetin Çocukları   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/700520
-#EXTINF:-1 tvg-id="" tvg-name="Sahtekarlar   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR | DIZI SON BÖLÜMLER",Sahtekarlar   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/704668
-#EXTINF:-1 tvg-id="" tvg-name="TEŞKİLAT ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR | DIZI SON BÖLÜMLER",TEŞKİLAT ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622359
-#EXTINF:-1 tvg-id="" tvg-name="Rüya Gibi  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="TR | DIZI SON BÖLÜMLER",Rüya Gibi  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/865560
-#EXTINF:-1 tvg-id="" tvg-name="ÇOK GÜZEL HAREKETLER 2  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR | DIZI SON BÖLÜMLER",ÇOK GÜZEL HAREKETLER 2  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/627510
-#EXTINF:-1 tvg-id="" tvg-name="GÖNÜL DAĞI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR | DIZI SON BÖLÜMLER",GÖNÜL DAĞI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621732
-#EXTINF:-1 tvg-id="" tvg-name="Güller ve Günahlar    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR | DIZI SON BÖLÜMLER",Güller ve Günahlar    ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/704571
-#EXTINF:-1 tvg-id="" tvg-name="GÜLDÜR GÜLDÜR SHOW ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR | DIZI SON BÖLÜMLER",GÜLDÜR GÜLDÜR SHOW ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/625157
-#EXTINF:-1 tvg-id="" tvg-name="Tasacak Bu Deniz    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="TR | DIZI SON BÖLÜMLER",Tasacak Bu Deniz    ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/704474
-#EXTINF:-1 tvg-id="" tvg-name="ARKA SOKAKLAR ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR | DIZI SON BÖLÜMLER",ARKA SOKAKLAR ✅✅  SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621688
-#EXTINF:-1 tvg-id="" tvg-name="KIZILCIK ŞERBETİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR | DIZI SON BÖLÜMLER",KIZILCIK ŞERBETİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621691
-#EXTINF:-1 tvg-id="" tvg-name="Sevdiğim Sensin   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg" group-title="TR | DIZI SON BÖLÜMLER",Sevdiğim Sensin   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/871771
-#EXTINF:-1 tvg-id="" tvg-name="Veliaht  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="TR | DIZI SON BÖLÜMLER",Veliaht  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/699749
-#EXTINF:-1 tvg-id="" tvg-name="Halef: Köklerin Çağrısı  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="TR | DIZI SON BÖLÜMLER",Halef: Köklerin Çağrısı  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/701061
-#EXTINF:-1 tvg-id="" tvg-name="İNCİ TANELERI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR | DIZI SON BÖLÜMLER",İNCİ TANELERI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/624115
-#EXTINF:-1 tvg-id="" tvg-name="KONUŞANLAR ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR | DIZI SON BÖLÜMLER",KONUŞANLAR ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622640
-#EXTINF:-1 tvg-id="" tvg-name="ESREF RUYA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR | DIZI SON BÖLÜMLER",ESREF RUYA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/660449
-#EXTINF:-1 tvg-id="" tvg-name="YERALTI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="TR | DIZI SON BÖLÜMLER",YERALTI  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/868717
-#EXTINF:-1 tvg-id="" tvg-name="Kuruluş Orhan  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="TR | DIZI SON BÖLÜMLER",Kuruluş Orhan  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/707070
-#EXTINF:-1 tvg-id="" tvg-name="SAHİPSİZLER ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR | DIZI SON BÖLÜMLER",SAHİPSİZLER ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/630158
-#EXTINF:-1 tvg-id="" tvg-name="BAHAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w154/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR | DIZI SON BÖLÜMLER",BAHAR  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622492
-#EXTINF:-1 tvg-id="" tvg-name="Ben Leman    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR | DIZI SON BÖLÜMLER",Ben Leman    ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/703843
-#EXTINF:-1 tvg-id="" tvg-name="Sakıncalı  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="TR | DIZI SON BÖLÜMLER",Sakıncalı  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/710147
-#EXTINF:-1 tvg-id="" tvg-name="Gözleri Karadeniz   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="TR | DIZI SON BÖLÜMLER",Gözleri Karadeniz   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/699189
-#EXTINF:-1 tvg-id="" tvg-name="KRAL KAYBEDERSE  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR | DIZI SON BÖLÜMLER",KRAL KAYBEDERSE  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/651441
-#EXTINF:-1 tvg-id="" tvg-name="CARPINTI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="TR | DIZI SON BÖLÜMLER",CARPINTI  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/699188
-#EXTINF:-1 tvg-id="" tvg-name="Bereketli Topraklar   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="TR | DIZI SON BÖLÜMLER",Bereketli Topraklar   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/707685
-#EXTINF:-1 tvg-id="" tvg-name="Aynadaki Yabancı    ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="TR | DIZI SON BÖLÜMLER",Aynadaki Yabancı    ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/703844
-#EXTINF:-1 tvg-id="" tvg-name="Ben Onun Annesiyim  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="TR | DIZI SON BÖLÜMLER",Ben Onun Annesiyim  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/706604
-#EXTINF:-1 tvg-id="" tvg-name="Aşk ve Gözyaşı   ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="TR | DIZI SON BÖLÜMLER",Aşk ve Gözyaşı   ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/701424
-#EXTINF:-1 tvg-id="" tvg-name="CAN BORCU ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR | DIZI SON BÖLÜMLER",CAN BORCU ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/639028
-#EXTINF:-1 tvg-id="" tvg-name="AILE SAADETI  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZucEzPzz8fn4pAZDqmHDDtmW8m.jpg" group-title="TR | DIZI SON BÖLÜMLER",AILE SAADETI  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/677403
-#EXTINF:-1 tvg-id="" tvg-name="CIFT KISILIK ODA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jknzzAm6YU6RhXU0rFPazcR7GZK.jpg" group-title="TR | DIZI SON BÖLÜMLER",CIFT KISILIK ODA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/673628
-#EXTINF:-1 tvg-id="" tvg-name="LEYLA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR | DIZI SON BÖLÜMLER",LEYLA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622096
-#EXTINF:-1 tvg-id="" tvg-name="KURULUS OSMAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR | DIZI SON BÖLÜMLER",KURULUS OSMAN  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/623156
-#EXTINF:-1 tvg-id="" tvg-name="BİR GECE MASALI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR | DIZI SON BÖLÜMLER",BİR GECE MASALI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622059
-#EXTINF:-1 tvg-id="" tvg-name="BİR ZAMANLAR İSTANBUL ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR | DIZI SON BÖLÜMLER",BİR ZAMANLAR İSTANBUL ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/651068
-#EXTINF:-1 tvg-id="" tvg-name="SİYAH KALP ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR | DIZI SON BÖLÜMLER",SİYAH KALP ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622139
-#EXTINF:-1 tvg-id="" tvg-name="KUDÜS FATİHİ: SELAHADDİN EYYUBİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR | DIZI SON BÖLÜMLER",KUDÜS FATİHİ: SELAHADDİN EYYUBİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/625156
-#EXTINF:-1 tvg-id="" tvg-name="DEHA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR | DIZI SON BÖLÜMLER",DEHA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622360
-#EXTINF:-1 tvg-id="" tvg-name="HUDUTSUZ SEVDA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOzx60VbvN46YdGDeobWXddr5ze.jpg" group-title="TR | DIZI SON BÖLÜMLER",HUDUTSUZ SEVDA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622638
-#EXTINF:-1 tvg-id="" tvg-name="SUSTALI CEYLAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="TR | DIZI SON BÖLÜMLER",SUSTALI CEYLAN  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/664132
-#EXTINF:-1 tvg-id="" tvg-name="KIZIL GONCALAR  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR | DIZI SON BÖLÜMLER",KIZIL GONCALAR  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622857
-#EXTINF:-1 tvg-id="" tvg-name="KARDELENLER  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR | DIZI SON BÖLÜMLER",KARDELENLER  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/649997
-#EXTINF:-1 tvg-id="" tvg-name="ŞAKİRPASA AİLESİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR | DIZI SON BÖLÜMLER",ŞAKİRPASA AİLESİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/638155
-#EXTINF:-1 tvg-id="" tvg-name="BAŞKA BİR GÜN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR | DIZI SON BÖLÜMLER",BAŞKA BİR GÜN ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/649639
-#EXTINF:-1 tvg-id="" tvg-name="PİYASA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR | DIZI SON BÖLÜMLER",PİYASA ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/654132
-#EXTINF:-1 tvg-id="" tvg-name="YALI ÇAPKINI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR | DIZI SON BÖLÜMLER",YALI ÇAPKINI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621692
-#EXTINF:-1 tvg-id="" tvg-name="ZEMBİLLİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR | DIZI SON BÖLÜMLER",ZEMBİLLİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/641596
-#EXTINF:-1 tvg-id="" tvg-name="ANNEM ANKARA  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR | DIZI SON BÖLÜMLER",ANNEM ANKARA  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632381
-#EXTINF:-1 tvg-id="" tvg-name="SANDIK KOKUSU  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR | DIZI SON BÖLÜMLER",SANDIK KOKUSU  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622095
-#EXTINF:-1 tvg-id="" tvg-name="SEN AĞLAMA İSTANBUL ✅✅ SON BOLUM" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR | DIZI SON BÖLÜMLER",SEN AĞLAMA İSTANBUL ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/636634
-#EXTINF:-1 tvg-id="" tvg-name="YABANİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR | DIZI SON BÖLÜMLER",YABANİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621731
-#EXTINF:-1 tvg-id="" tvg-name="YALAN ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR | DIZI SON BÖLÜMLER",YALAN ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621997
-#EXTINF:-1 tvg-id="" tvg-name="AŞK EVLİLİK BOŞANMA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR | DIZI SON BÖLÜMLER",AŞK EVLİLİK BOŞANMA ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/631408
-#EXTINF:-1 tvg-id="" tvg-name="GİZLİ BAHÇE ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR | DIZI SON BÖLÜMLER",GİZLİ BAHÇE ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/624547
-#EXTINF:-1 tvg-id="" tvg-name="GÜZEL AŞKLAR DİYARI ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR | DIZI SON BÖLÜMLER",GÜZEL AŞKLAR DİYARI ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622408
-#EXTINF:-1 tvg-id="" tvg-name="KARA AĞAÇ DESTANI ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR | DIZI SON BÖLÜMLER",KARA AĞAÇ DESTANI ✅✅  SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621689
-#EXTINF:-1 tvg-id="" tvg-name="KALPAZAN  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR | DIZI SON BÖLÜMLER",KALPAZAN  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/625155
-#EXTINF:-1 tvg-id="" tvg-name="KARADUT  ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR | DIZI SON BÖLÜMLER",KARADUT  ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622407
-#EXTINF:-1 tvg-id="" tvg-name="KİRLİ SEPETİ ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR | DIZI SON BÖLÜMLER",KİRLİ SEPETİ ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621996
-#EXTINF:-1 tvg-id="" tvg-name="KÖR NOKTA ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR | DIZI SON BÖLÜMLER",KÖR NOKTA ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622351
-#EXTINF:-1 tvg-id="" tvg-name="KÖTÜ KAN ✅✅  SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR | DIZI SON BÖLÜMLER",KÖTÜ KAN ✅✅  SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/621690
-#EXTINF:-1 tvg-id="" tvg-name="TAŞ KAĞIT MAKAS ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR | DIZI SON BÖLÜMLER",TAŞ KAĞIT MAKAS ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/622094
-#EXTINF:-1 tvg-id="" tvg-name="HOLDİNG ✅✅ SON BOLUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR | DIZI SON BÖLÜMLER",HOLDİNG ✅✅ SON BOLUM
-http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/634758
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="✦●✦ VIP ☪ SINEMA ✦●✦" tvg-logo="https://www.tvlogolar.xyz/logo/germany/tr.bayrak.png" group-title="TR ⭐ VIP ☪ SINEMA",✦●✦ VIP ☪ SINEMA ✦●✦
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/60489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Bir Minecraft Filmi 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Bir Minecraft Filmi 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609214
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Batman Ninja vs Yakuza League 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Batman Ninja vs Yakuza League 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609213
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ French Lover 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ French Lover 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609110
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sacramento 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Sacramento 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609109
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Ruth ve Boaz 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Ruth ve Boaz 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609108
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Mantis 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Mantis 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/609107
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Love Hurts 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Love Hurts 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ London Calling 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ London Calling 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608689
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ A Bright Lawyer 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ A Bright Lawyer 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Superman 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Superman 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608628
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ She Said Maybe 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ She Said Maybe 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608626
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Naked Gun 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Naked Gun 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/608107
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sitaare.Zameen.Par.2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Sitaare.Zameen.Par.2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607541
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Wrong Paris 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Wrong Paris 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607533
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Şafağa Kadar 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Şafağa Kadar 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607521
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Eenie Meanie 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Eenie Meanie 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/607301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Mission Impossible The Final Reckoning 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Mission Impossible The Final Reckoning 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Drop 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Drop 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Ice Road Vengeance 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Ice Road Vengeance 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Day of Reckoning 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Day of Reckoning 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606580
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Death of a Unicorn 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Death of a Unicorn 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Smurfs 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Smurfs 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606330
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Love Untangled 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Love Untangled 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606329
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Thursday Murder Club 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Thursday Murder Club 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/606194
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Thunderbolts 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Thunderbolts 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/605921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Wolf Man 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Wolf Man 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/605893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ KPop Demon Hunters Sing Along 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ KPop Demon Hunters Sing Along 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/605208
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Dayı Bir Adamın Hikayesi 2⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Dayı Bir Adamın Hikayesi 2⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/605193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Metruk Adam 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Metruk Adam 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/604887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Map That Leads to You 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Map That Leads to You 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/604757
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Dog Man 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Dog Man 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/604719
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Gece Elbet Cöker 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Gece Elbet Cöker 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/604675
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Night Always Comes 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Night Always Comes 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603832
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ A Summer Musical 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ A Summer Musical 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603830
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Kardes Takımı 2 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Kardes Takımı 2 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603790
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Fixed 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Fixed 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603785
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Devlet Baskanlari 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Devlet Baskanlari 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603783
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Amatör 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Amatör 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Siz Babama Bakmayın 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Siz Babama Bakmayın 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Acıya Yer Yok 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Acıya Yer Yok 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Oxford Askim 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Oxford Askim 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Pickup 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Pickup 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Monkey 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Monkey 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603694
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Drop Kabul Et veya Reddet 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Drop Kabul Et veya Reddet 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/603693
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Sevda Mecburi İstikamet⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/584257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ C Takımı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ C Takımı⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/584246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Little Siberia 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Little Siberia 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/584154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Revelations 2025⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Revelations 2025⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/584150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Moana 2 (2024)⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Moana 2 (2024)⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Plankton⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Plankton⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Baska.Bir.Sen⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Baska.Bir.Sen⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581464
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Wallace and Gromit Vengeance Most Fowl⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Wallace and Gromit Vengeance Most Fowl⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581463
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Witcher Sirens of the Deep⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Witcher Sirens of the Deep⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581462
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ The Calendar Killer Takvim Katili⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ The Calendar Killer Takvim Katili⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581461
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Stockholmlu Asıklar⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Stockholmlu Asıklar⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Tatlı Villa⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Tatlı Villa⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581459
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Rüzgara Bırak⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Rüzgara Bırak⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581458
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Sniper The Last Stand⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Sniper The Last Stand⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581457
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Umami⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Umami⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581456
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Wallace ve Gromit Kinci Kus⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Wallace ve Gromit Kinci Kus⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581455
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Yanlıs Yolda The Wrong Track⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Yanlıs Yolda The Wrong Track⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581454
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Merkez 36⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Merkez 36⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581453
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Karsi Atak⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Karsi Atak⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581452
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ İblis Sehri Demon City⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ İblis Sehri Demon City⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Dügünden Önce Ölüm⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Dügünden Önce Ölüm⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Durdurulamaz⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Durdurulamaz⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581446
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Culpa Mia Londra⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Culpa Mia Londra⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Back in Action⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Back in Action⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581444
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Az cok Hamileyim⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Az cok Hamileyim⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581443
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Askın Fotografı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Askın Fotografı⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581442
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Ana Ogul Balayı⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Ana Ogul Balayı⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581441
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ A Copenhagen Love Story⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ A Copenhagen Love Story⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581440
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIP CINEMA  ☪ Ad Vitam⚡️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIP CINEMA  ☪ Ad Vitam⚡️
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/581439
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 1 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 2 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530274
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 3 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530275
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 4 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 5 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530282
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 6 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530283
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 7 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 8 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530290
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 9 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 10 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 11 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530412
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 12 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530413
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 13 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530414
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 14 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 15 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530416
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 16 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530417
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 17 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 18 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 19 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 20 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530467
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 21 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 22 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 23 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 24 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 25 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 26 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 27 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 28 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 29 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 30 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 31 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 32 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/530479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 33 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531341
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 34 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531342
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 35 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531343
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 36 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531344
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 37 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531345
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 38 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531346
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 39 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531347
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 40 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531348
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 41 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531349
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 42 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531350
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 43 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/531351
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 44 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532184
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 45 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532185
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 46 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 47 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 48 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 49 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 50 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/532198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 51 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/542633
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 52 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548679
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 53 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 54 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 55 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 56 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 57 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT9evl0e1LqHXH-k-8typgyAhXg33WajpHUCmRrOiym-UigmRbQzuIsJ4eMopSKJCtLvA&usqp=CAU" group-title="TR ⭐ VIP ☪ SINEMA",VIZYON 58 ☪ SINEVIZYON (2024 ⚡️ 2023)
+http://electusprs.pro:8080/hQpBxw54/rPKMJ63/548685
 
 #EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="b**N MOVIES TURK FHD" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="TR | D-SMART&BEIN SINEMA",b**N MOVIES TURK FHD
 http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/571871
