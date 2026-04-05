@@ -1655,87 +1655,507 @@ https://v2.catcast.tv/content/42167/seg-25550646-v1-a1/index.m3u8
 #EXTGRP:RUS
 https://v2.catcast.tv/content/37452/seg-25549925-v1-a1/index.m3u8
 
-#EXTINF:-1,Наше Мужское Кино
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3
-#EXTINF:-1,Родное Кино
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дом Кино
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1,КиноХит
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопоказ
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ViJu TV 1000
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ViJu TV 1000 Рксскоe
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Индийское Кино
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киносвидание
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ТедеКафе
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ViJu TV 1000 Action
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinema tv
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u
-#EXTINF:-1,КиноКомедия
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Киномикс
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1,КиноСемья
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1,КиноСерия
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мужское Кино
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинопремера
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Сетанта спорт 2
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Сетанта спорт live
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Discovery
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Nauka
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,Wild
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8 
-#EXTINF:-1,National Geograpic
-#EXTGRP:Cinerama.uz
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,Матчь тв
-#EXTGRP:Cinerama.uz
+#EXTGRP:Cinerama UZ
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,ТНТ
-#EXTGRP:Cinerama.uz
+#EXTGRP:Cinerama UZ
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/127.png" group-title="Cinerama UZ",Viju TV1000 HD
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/267.png" group-title="Cinerama UZ",Viju TV1000 Русское HD
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/125.png" group-title="Cinerama UZ",Viju TV1000 Action HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/834.png" group-title="Cinerama UZ",Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/821.png" group-title="Cinerama UZ",Кинокомедия HD
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/644.png" group-title="Cinerama UZ",Киномикс HD
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2834.png" group-title="Cinerama UZ",Кинопоказ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/566.png" group-title="Cinerama UZ",Кинопремьера HD
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/462.png" group-title="Cinerama UZ",Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/987.png" group-title="Cinerama UZ",Киносемья HD
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/799.png" group-title="Cinerama UZ",Киносерия HD
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1584.png" group-title="Cinerama UZ",Мужское кино HD
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/12.png" group-title="Cinerama UZ",Родное кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2174.png" group-title="Cinerama UZ",Дорама
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2754.png" group-title="Cinerama UZ",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",S Cinema
+https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/608.png" group-title="Cinerama UZ",Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1395.png" group-title="Cinerama UZ",Bollywood
+https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2768.png" group-title="Cinerama UZ",Арсенал HD
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/485.png" group-title="Cinerama UZ",Наше новое кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2438.png" group-title="Cinerama UZ",Капитан Фантастика HD
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/798.png" group-title="Cinerama UZ",Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2402.png" group-title="Cinerama UZ",Ретро ТВ
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2267.png" group-title="Cinerama UZ",CGTN
+https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2268.png" group-title="Cinerama UZ",CGTN Rus
+https://stream8.cinerama.uz/1456/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2652.png" group-title="Cinerama UZ",Kinoteatr UZ
+https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Zor TV HD
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",TTV Kino
+https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/146.png" group-title="Cinerama UZ",Первый канал
+https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/162.png" group-title="Cinerama UZ",НТВ
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/711.png" group-title="Cinerama UZ",Россия 1
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1683.png" group-title="Cinerama UZ",Россия 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/649.png" group-title="Cinerama UZ",ТВЦ
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/5691.png" group-title="Cinerama UZ",ТВЦ International
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/726.png" group-title="Cinerama UZ",Мир
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2078.png" group-title="Cinerama UZ",Мир 24
+https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8343.png" group-title="Cinerama UZ",BBC WORLD
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/3608.png" group-title="Cinerama UZ",Bloomberg
+https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2270.png" group-title="Cinerama UZ",CNN
+https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2266.png" group-title="Cinerama UZ",Euronews
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8405.png" group-title="Cinerama UZ",Fox News
+https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2127.png" group-title="Cinerama UZ",France 24
+https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8638.png" group-title="Cinerama UZ",Deutsche Welle
+https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2277.png" group-title="Cinerama UZ",RU TV
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/897.png" group-title="Cinerama UZ",Муз ТВ
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/897.png" group-title="Cinerama UZ",MuzTV UZ
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/715.png" group-title="Cinerama UZ",Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/680.png" group-title="Cinerama UZ",ТНТ Music
+https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2408.png" group-title="Cinerama UZ",Ля-минор
+https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",СТВ Музыка HD
+https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7914.png" group-title="Cinerama UZ",Biz Music HD UZ
+https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/3924.png" group-title="Cinerama UZ",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Smusic TV HD
+https://stream8.cinerama.uz/1476/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Smusic TV
+https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/663.png" group-title="Cinerama UZ",Сарафан
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/617.png" group-title="Cinerama UZ",Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/415.png" group-title="Cinerama UZ",Точка.РФ
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2383.png" group-title="Cinerama UZ",Fashion TV
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/405.png" group-title="Cinerama UZ",Звезда
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2423.png" group-title="Cinerama UZ",365 дней ТВ
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2550.png" group-title="Cinerama UZ",8 канал
+https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2008.png" group-title="Cinerama UZ",Авто 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/153.png" group-title="Cinerama UZ",Авто Плюс
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2443.png" group-title="Cinerama UZ",Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2449.png" group-title="Cinerama UZ",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2463.png" group-title="Cinerama UZ",Загородный
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/614.png" group-title="Cinerama UZ",Кухня ТВ
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2304.png" group-title="Cinerama UZ",Телекафе
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2310.png" group-title="Cinerama UZ",Первый Космический HD
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2048.png" group-title="Cinerama UZ",КХЛ
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg" group-title="Cinerama UZ",Futbol TV
+https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2043.png" group-title="Cinerama UZ",Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2043.png" group-title="Cinerama UZ",Матч! Планета SD
+https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2326.png" group-title="Cinerama UZ",MMA-TV HD
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7238.png" group-title="Cinerama UZ",Setanta Sports 1
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7239.png" group-title="Cinerama UZ",Setanta Sports 2
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7935.png" group-title="Cinerama UZ",Sport UZ HD
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7507.png" group-title="Cinerama UZ",Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2055.png" group-title="Cinerama UZ",Viju+ Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2311.png" group-title="Cinerama UZ",Приключения HD
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/409.png" group-title="Cinerama UZ",Discovery Science
+https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/4311.png" group-title="Cinerama UZ",NatGeo Wild HD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/102.png" group-title="Cinerama UZ",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/521.png" group-title="Cinerama UZ",Viju Explore
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/277.png" group-title="Cinerama UZ",Viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/765.png" group-title="Cinerama UZ",Viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2149.png" group-title="Cinerama UZ",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1681.png" group-title="Cinerama UZ",Охотник и Рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/675.png" group-title="Cinerama UZ",Моя планета HD
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2498.png" group-title="Cinerama UZ",В мире животных HD
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/520.png" group-title="Cinerama UZ",Домашние животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2432.png" group-title="Cinerama UZ",Живая планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2495.png" group-title="Cinerama UZ",Живая природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/5881.png" group-title="Cinerama UZ",Живи активно HD
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/113.png" group-title="Cinerama UZ",Живи!
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1036.png" group-title="Cinerama UZ",История
+https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/367.png" group-title="Cinerama UZ",Зоопарк
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/434.png" group-title="Cinerama UZ",Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/410.png" group-title="Cinerama UZ",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2155.png" group-title="Cinerama UZ",English Club
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2800.png" group-title="Cinerama UZ",Insight TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2451.png" group-title="Cinerama UZ",Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/16.png" group-title="Cinerama UZ",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8857.png" group-title="Cinerama UZ",Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",KBS WORLD
+https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Lux TV
+https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2508.png" group-title="Cinerama UZ",Глазами туриста HD
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2746.png" group-title="Cinerama UZ",Наша Сибирь 4К
+https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/921.png" group-title="Cinerama UZ",NHK World TV
+https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz1.webp" group-title="Cinerama UZ",BizTV HD UZ
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7933.png" group-title="Cinerama UZ",Renessans TV UZ
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2644.png" group-title="Cinerama UZ",Uzbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7931.png" group-title="Cinerama UZ",Uzbekistan 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2578.png" group-title="Cinerama UZ",Хабар 24
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7940.png" group-title="Cinerama UZ",Yoshlar
+https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7913.png" group-title="Cinerama UZ",Biz Cinema UZ
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7912.png" group-title="Cinerama UZ",Aqlvoy TV UZ
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2644.png" group-title="Cinerama UZ",Navo
+https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2650.png" group-title="Cinerama UZ",Bolajon
+https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2649.png" group-title="Cinerama UZ",Dunyo bo`ylab UZ
+https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Istiqlol TV
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2648.png" group-title="Cinerama UZ",Madaniyat va marifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7924.png" group-title="Cinerama UZ",Mahalla
+https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7925.png" group-title="Cinerama UZ",Mening Yurtim FHD UZ
+https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7926.png" group-title="Cinerama UZ",Milliy TV UZ
+https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7928.png" group-title="Cinerama UZ",My5 UZ
+https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7930.png" group-title="Cinerama UZ",Nurafshon TV UZ
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7932.png" group-title="Cinerama UZ",Ozbekiston Tarixi HD UZ
+https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7936.png" group-title="Cinerama UZ",Taraqqiyot TV UZ
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7934.png" group-title="Cinerama UZ",Ruxsor TV UZ
+https://stream8.cinerama.uz/4008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg" group-title="Cinerama UZ",Gold TV
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2646.png" group-title="Cinerama UZ",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7093.png" group-title="Cinerama UZ",Turan TV
+https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Myday TV
+https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Ntv UZ
+https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2569.png" group-title="Cinerama UZ",Казахстан International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Amudaryo TV
+https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Ellikqala TV
+https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Fergana MTRK
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Fuel TV
+https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Ishonch TV
+https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",ISTIQLOL TV
+https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Jaslar TV
+https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Jizzax TV
+https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Makon TV
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Mimi TV
+https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Muloqot TV
+https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Shifo TV
+https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Surxondaryo MTRK
+https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",TTV
+https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/report.webp" group-title="Cinerama UZ",UzReport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Sevimili UZ
+https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/.png" group-title="Cinerama UZ",Xorazm MTRK
+https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2437.png" group-title="Cinerama UZ",Рыжий
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/66.png" group-title="Cinerama UZ",Уникум
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2156.png" group-title="Cinerama UZ",Duck TV
+https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/810.png" group-title="Cinerama UZ",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/555.png" group-title="Cinerama UZ",Tiji
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2027.png" group-title="Cinerama UZ",В гостях у сказки
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/740.png" group-title="Cinerama UZ",Карусель
+https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/618.png" group-title="Cinerama UZ",Мама
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1332.png" group-title="Cinerama UZ",Мульт
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2757.png" group-title="Cinerama UZ",Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="cineman-action" tvg-logo="http://epg.one/img/4684.png" tvg-name="",CINEMAN ACTION
 #EXTGRP:Kino Action
