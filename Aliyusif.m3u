@@ -184,7 +184,18 @@ https://catcast.ismailturret.workers.dev/50859.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://catcast.ismailturret.workers.dev/50498.m3u8
-
+#EXTINF:-1,Yansima Music
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50710.m3u8
+#EXTINF:-1,Yansima Slow Music
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50498.m3u8
+#EXTINF:-1,FimBOX Çocuk
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50879.m3u8
+#EXTINF:-1,TE tv
+#EXTGRP:Azerbaycan
+https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
 #EXTGRP:Azerbaycan
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
