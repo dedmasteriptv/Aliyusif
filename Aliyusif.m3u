@@ -203,6 +203,45 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.221/BoncukTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620828/TEBER_STAR1.gif",TEBER STAR1
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar1.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934620882/TEBER_STAR2.gif",TEBER STAR2
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/938228997/YESILCAM_STAR.gif",GALA STAR
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/935828290/TEBER_FLASH.gif",TEBER FLASH TV eğlence
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617747/HBB_TV.gif",HBB TV
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619440/STAR6.gif",DENİZ 6
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934617844/PLANET_AXION.gif",EHLİBEYT STAR
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619430/STAR_SAFARI.gif",TEBER STAR SAFARİ
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/937077356/Kanal9.gif",KANAL9 çocuk
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/934619452/TEBER_ON.gif",TEBER_ON
+#EXTGRP:Azerbaycan
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV music
 #EXTGRP:Azerbaycan
