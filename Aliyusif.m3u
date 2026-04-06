@@ -297,6 +297,9 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6prVYgqM/tmbtaz-png.png"  group-title="Azerbaycan", TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/tmb.png",TMB tr
+#EXTGRP:Azerbaycan
+https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VostokTV.ru" tvg-logo="https://i.imgur.com/X1RysL8.png" tvg-name="Восток ТВ" group-title="Azerbaycan",Vostok TV [720x576]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
