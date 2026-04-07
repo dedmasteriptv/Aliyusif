@@ -66,7 +66,7 @@ http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
+http://vip058esmertv.live:8080/gpEZQXz9/gJSen12/632449
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/mega022/playlist.m3u8
