@@ -214,7 +214,12 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
 #EXTGRP:Azerbaycan
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ifc3mK7.png", NEXTstream turkᵀᴿ
+#EXTGRP:Azerbaycan
+https://gecicisifresizyayinda.nextstream.workers.dev/stream/nextstreamturk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
+#EXTGRP:Azerbaycan
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.221/BoncukTV/live/index.m3u8
