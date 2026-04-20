@@ -807,6 +807,14 @@ https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan-2.m3u8
+#EXTINF:0 tvg-id="50370" tvg-name="PlayerKomedi Azerbaycan Film" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50370-698b4b5495325.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Azerbaycan Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-azerbaycanfilm.m3u8
+#EXTINF:0 tvg-id="50373" tvg-name="PlayerKomedi AzFilm 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50373-698b4b14a58e5.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi AzFilm 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-azfilm.m3u8
 #EXTINF:0 tvg-id="50500" tvg-name="PlayerKomedi BOZBASH PICTURES 1" tvg-logo="https://img.catcast.tv/uploads/11022026/logos/50500-698c4dac79c98.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi BOZBASH PICTURES 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
@@ -887,7 +895,7 @@ https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-tomvejerry.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referer=https://catcast.tv/
 https://catcast-tv2.koprulu2.workers.dev/?id=playerczgflm-maaveay.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/zDyrxBgL/In-Shot-20260329-115838529.png" group-title="Azərbaycan",Player Sevimlilər
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zDyrxBgL/In-Shot-20260329-115838529.png" group-title="PLAYER TV(DedMasterIPTV)",Player Sevimlilər
 https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-sevmller.m3u8
 #EXTINF:0 tvg-id="50941" tvg-name="PlayerCizgiFilm Maşınlar" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50941-69cfdbde2928a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm Maşınlar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
