@@ -484,352 +484,451 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTGRP:Azerbaycan
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-name="PlayerCinema ACTION 1"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png",PlayerCinema ACTION 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Action 2"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e39f4e99f.png",PlayerCinema Action 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Action 3"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940d45482c7.png",PlayerCinema Action 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Action 4"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940e5c08373.png",PlayerCinema Action 4
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction4.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ACTION 5"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85a22516a2.png",PlayerCinema ACTION 5
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ACTION-5.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Action 6"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdf2c53d75.png",PlayerCinema Action 6
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Action_6.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Squid Game 1"tvg-logo="https://img.catcast.tv/uploads/04032026/logos/27208-69a86a4e39608.png",PlayerCinema Squid Game 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_SquidGame%20_1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Squid Game 2"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Squid Game 2"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Squid Game 3"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a9287ee1d34.png",PlayerCinema Squid Game 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_Squid_Game3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ALICE 1"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50675-69a9728529751.png",PlayerCinema ALICE 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ALICE 2"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50676-69a972edce92d.png",PlayerCinema ALICE 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ALICE 3"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50677-69a97357e6881.png",PlayerCinema ALICE 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ALICE-3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b852be550b9.png",PlayerCinema MARVEL 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_MARVEL1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b852be550b9.png",PlayerCinema MARVEL 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_MARVEL2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 3"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b853dad3fdd.png",PlayerCinema MARVEL 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_MARVEL3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 4"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b853dad3fdd.png",PlayerCinema MARVEL 4
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-MARVEL_4.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 5"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b852be550b9.png",PlayerCinema MARVEL 5
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-MARVEL_5.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MARVEL 6"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b852be550b9.png",PlayerCinema MARVEL 6
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-MARVEL_6.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema CEHENNEM MELEKLERI"tvg-logo="https://img.catcast.tv/uploads/05032026/logos/27208-69a97781d4547.png",PlayerCinema CEHENNEM MELEKLERI
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_CEHENNEM-MELEKLERI.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MATRIX"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b852308fac6.png",PlayerCinema MATRIX
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_MATRIX.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema RAMBO"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50690-69a977f55fea2.png",PlayerCinema RAMBO
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_RAMBO.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ROCKY"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b858fc57753.png",PlayerCinema ROCKY
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ROCKY.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema VAN DAMME 1"tvg-logo="https://img.catcast.tv/uploads/17032026/logos/27208-69b8667d83db3.png",PlayerCinema VAN DAMME 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_VAN-DAMME-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema VAN DAMME 2"tvg-logo="https://img.catcast.tv/uploads/17032026/logos/27208-69b8667d83db3.png",PlayerCinema VAN DAMME 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_VAN-DAMME-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema FORSAJ 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8562a98cb1.png",PlayerCinema FORSAJ 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_FORSAJ-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema FORSAJ 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8562a98cb1.png",PlayerCinema FORSAJ 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_FORSAJ-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema OLUM YARISI"tvg-logo="https://img.catcast.tv/uploads/05032026/banners/50691-69a978c992f75.png",PlayerCinema OLUM YARISI
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_OLUM-YARISI.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MORTAL COMBAT"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8519fc8f02.png",PlayerCinema MORTAL COMBAT
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_M)RTAL-COMBAT.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BOYKA"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85996cb4e0.png",PlayerCinema BOYKA
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BOYKA.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema JASON STATNAM"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85873e83e3.png",PlayerCinema JASON STATNAM
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JASON-STATNAM.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema TRANSFORMER 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b84f064c082.png",PlayerCinema TRANSFORMER 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TRANSFORMER-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema TRANSFORMER 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b84f064c082.png",PlayerCinema TRANSFORMER 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TRANSFORMER-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BOLLYWOOD"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842250d98d.png",PlayerCinema BOLLYWOOD
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BOLLYWOOD.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BOLLYWOOD 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842250d98d.png",PlayerCinema BOLLYWOOD 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_BOLLYWOOD2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema ANTONIO BANDERAS"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8552acbe1b.png",PlayerCinema ANTONIO BANDERAS
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_ANTONIO-BANDERAS.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema JACKE CHAN 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85a9728bbe.png",PlayerCinema JACKE CHAN 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JACKE-CHAN-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema JACKE CHAN 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85a9728bbe.png",PlayerCinema JACKE CHAN 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JACKE-CHAN-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema STIVEN SEGAL 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85b721345f.png",PlayerCinema STIVEN SEGAL 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_STIVEN-SEGAL-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema STIVEN SEGAL 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85b721345f.png",PlayerCinema STIVEN SEGAL 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_STIVEN-SEGAL-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM 1"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_PREMIUM-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM 2"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_PREMIUM-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM 3"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-PREMIUM_3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM-4"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM-4
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema%20PREMIUM-4
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM-5"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM-5
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema%20PREMIUM-5
-#EXTINF:-1 tvg-name="PlayerCinema PREMIUM-6"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b842adafe69.png",PlayerCinema PREMIUM-6
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema%20PREMIUM-6
-#EXTINF:-1 tvg-name="PlayerCinema CONTINENTAL"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b850a11360b.png",PlayerCinema CONTINENTAL
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_CONTINENTAL.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema JOHN WICK HD"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b850a11360b.png",PlayerCinema JOHN WICK HD
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JOHN-WICK_HD.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BRUS LEE"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85cd86b2a5.png",PlayerCinema BRUS LEE
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BRUS-LEE.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BRENDON LEE"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85d3a2ecee.png",PlayerCinema BRENDON LEE
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_BRENDON-LEE.m3u8
-#EXTINF:-1 tvg-name="PlayerCınema Universal Esger"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfddea18082.png",PlayerCinema Universal Esger
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Universal-Esger.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema TERMINATOR"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85e618a787.png",PlayerCinema TERMINATOR
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_TERMINATOR.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema IP MAN"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b856ed7b3a3.png",PlayerCinema IP MAN
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_IP-MAN.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema JET LEE"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b857cb4f562.png",PlayerCinema JET LEE
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_JET-LEE.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema BATMAN"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8414f3d81f.png",PlayerCinema BATMAN
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_BATMAN.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema HORUMCEK ADAM"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b85f542af1e.png",PlayerCinema HORUMCEK ADAM
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_HORUMCEK-ADAM.m3u8
-#EXTINF:-1 tvg-name="PlayerCınema YIRTICI"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdc7912238.png",PlayerCinema YIRTICI
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-YIRTICI-1.m3u8
-#EXTINF:-1 tvg-name="PlayerCınema YIRTICI 2"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdcfa8d849.png",PlayerCinema YIRTICI 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-YIRTICI_2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema GODZILLA"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b8600e17c25.png",PlayerCinema GODZILLA
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_GODZILLA.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema MAYMUNLAR"tvg-logo="https://img.catcast.tv/uploads/16032026/logos/27208-69b855b4143e2.png",PlayerCinema MAYMUNLAR
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinema_MAYMUNLAR.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Fantastika"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940c609c2f6.png",PlayerCinema Fantastika
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaFantastika.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema John Wick"tvg-logo="https://img.catcast.tv/uploads/17022026/logos/27208-69940a9b8fe87.png",PlayerCinema John Wick
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaJohnWick.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-1"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaHindFilmleri.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-3"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-4"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-4
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-4.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-5"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-5
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-5.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Hind_Filmleri-6"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f71e0813ac.png",PlayerCinema Hind_Filmleri-6
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Hind_Filmleri-6.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm QARABAĞ DÖYÜŞLERİ"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b18a86803.png",PlayerFilm QARABAĞ DÖYÜŞLERİ
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilm%20QARABAG%20DOYUSLERI.m3u8
-#EXTINF:-1 tvg-name="Player VETEN OĞLU"tvg-logo="https://img.catcast.tv/uploads/27022026/logos/27208-69a1b07fe19ad.png",Player VETEN OĞLU
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerVETENOGLU.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-1"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAzDublyaj.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_2.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-3"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-3.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-4"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-4
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_4.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-5"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-5
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema_Aze-Dublaj_5.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-6"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-6
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-6.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-7"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-7
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-7.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-8"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-8
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-8.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-9"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-9
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-9.m3u8
-#EXTINF:-1 tvg-name="PlayerCinema Aze_Dublaj-10"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f70825e2c1.png",PlayerCinema Aze_Dublaj-10
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCinema-Aze_Dublaj-10.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmAZE.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm AZERBAYCAN-2"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png",PlayerFilm AZERBAYCAN-2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerFilm-AZERBAYCAN-2.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Az Film"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b3ee28d791.png",PlyerKomedi Az Film
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediAzFilm1.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi AzFilm 2"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b40068f023.png",PlayerKomedi AzFilm 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediAzFilm2.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pictures 1"tvg-logo="https://img.catcast.tv/uploads/11022026/logos/27208-698c4de711d45.png",PlayerKomedi Bozbash Pictures 1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBozbasPictures1.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bozbash Pikcher"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b495e5c4bd.png",PlayerKomedi Bozbash Pikcher 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBozbasPictures2.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8c00d356d.png",PlayerKomedi Bu Şeherde
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBuSeherde.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Bu Şeherde 2"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e8f10acc5.png",PlayerKomedi Bu Şeherde 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediBuSeherde2.m3u8.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Деревня Дураков"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b36fc31801.png",PlayerKomedi Деревня Дураков
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediDerevnyaDurakov.m3u8
-#EXTINF:-1 tvg-name="PlayerFilm TÜRKIYE"tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png",PlayerFilm TÜRKIYE
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerFilmTR.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Roman Havası"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8d7bc95e0.png",PlayerKomedi Roman Havası
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediRomanHavasi.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b410a2af28.png",PlayerKomedi Cennet Mahallesi 
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediCennetMahallesi.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Cennet Mahallesi 2"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f7834503d3.png",PlayerKomedi Cennet Mahallesi 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediCennetMahallesi2.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal"tvg-logo="https://img.catcast.tv/uploads/13022026/logos/27208-698f740bca2b2.png",PlayerKomedi Kemal Sunal
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKemalSunal1.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 2"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f8403578fc.png",PlayerKomedi Kemal Sunal 2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediKemalSunal2.m3u8
-#EXTINF:-1 tvg-name="PlayerKomedi Kemal Sunal 3"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959d5b37054.png",PlayerKomedi Kemal Sunal 3
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKemalSunal3.m3u8
-#EXTINF:-1 tvg-name="PlayerTürk Şener Şen"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-6995a04e8b6b3.png",PlayerTürk Şener Şen
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerKomediSenerSen.m3u8
-#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerWWE.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_PANDA-1"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdb3c620e9.png",PlayerCizgiFilm_PANDA-1
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_PANDA-1
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_PANDA-2"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdb3c620e9.png",PlayerCizgiFilm_PANDA-2
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_PANDA-2
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_Buz-Devri"tvg-logo="https://img.catcast.tv/uploads/17042026/logos/27208-69e27e6842795.png",PlayerCizgiFilm_Buz-Devri
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_Buz-Devri
-#EXTINF:-1 tvg-name="PlayerCizgiFilm_BERNARD"tvg-logo="https://img.catcast.tv/uploads/17042026/logos/27208-69e2807e2beb9.png",PlayerCizgiFilm_BERNARD
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_BERNARD
-#EXTINF:-1 tvg-name="PlayerizgiFilm TOM ve JERRY"tvg-logo="https://img.catcast.tv/uploads/21032026/logos/27208-69bdb45804272.png",PlayerizgiFilm TOM ve JERRY
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm_TOM-ve-JARRY.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFılmı Maşa ve Ayı"tvg-logo="https://img.catcast.tv/uploads/18022026/logos/27208-69959eda535ac.png",PlayerCizgiFılmı Maşa ve Ayı
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmMasaVeAyi.m3u
-#EXTINF:-1 tvg-name="PlayerCizgiFilm SEVIMLILER"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983e5d6f4f5.png",PlayerCizgiFilm SEVIMLILER
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCizgiFilmSevimliler.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm MAŞINLAR"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfdc00cbb30.png",PlayerCizgiFilm MAŞINLAR
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm-MA%C5%9EINLAR.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm MADAGASCAR"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cfec593849e.png",PlayerCizgiFilm MADAGASCAR
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm-MADAGASCAR.m3u8
-#EXTINF:-1 tvg-name="PlayerCizgiFilm Şrek&Ejdaha"tvg-logo="https://img.catcast.tv/uploads/03042026/logos/27208-69cff1c3b3b98.png",PlayerCizgiFilm Şrek&Ejdaha
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/PlayerCizgiFilm-%C5%9Erek%26Ejdaha.m3u8
-#EXTINF:-1 tvg-name="PlayerTOY Mahnıları"tvg-logo="https://img.catcast.tv/uploads/16022026/logos/27208-6992c83902d6e.png",PlayerTOY Mahnıları
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerToyMahnilari.m3u8
-#EXTINF:-1 tvg-name="PlayerMusic Aze"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990eba6d3c4a.png",PlayerMusic Aze
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMusicAZE.m3u8
-#EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e0d0c6970.png",PlayerGencMusic
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerGencMusic.m3u8
-#EXTINF:-1 tvg-name="PlayerMeyxana tv"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990ea6d419ed.png",PlayerMeyxana tv
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMEYXANA.m3u8
-#EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://img.catcast.tv/uploads/14022026/logos/27208-698f85351a5aa.png",PlayerZevqMusic
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerZevqMusic.m3u8
-#EXTINF:-1 tvg-name="PlayerMusic HIT"tvg-logo="https://img.catcast.tv/uploads/15022026/logos/27208-6990e24835bfa.png",PlayerMusic HIT
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerMusicHit.m3u8
-#EXTINF:-1 tvg-name="PlayerHind MUSIC"tvg-logo="https://img.catcast.tv/uploads/20022026/logos/27208-69983391a56a1.png",PlayerHind MUSIC
-#EXTGRP:PLAYER TV (DedMaster)
-https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerHindMusic.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="50341" tvg-name="PlayerCınema Action" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercınema.m3u8
+#EXTINF:0 tvg-id="50534" tvg-name="PlayerCinema Action 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50534-6990e36cb5217.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Action 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-acsion2.m3u8
+#EXTINF:0 tvg-id="50554" tvg-name="PlayerCinema Action 3" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50554-69940d1d1ba17.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Action 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-action3.m3u8
+#EXTINF:0 tvg-id="50556" tvg-name="PlayerCinema Action 4" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50556-69940e37e68d4.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Action 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-acsion4.m3u8
+#EXTINF:0 tvg-id="50727" tvg-name="PlayerCinema ACTION 5" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50727-69b859f9ee0d5.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ACTION 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-action5.m3u8
+#EXTINF:0 tvg-id="50946" tvg-name="PlayerCınema ACTION 6" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50946-69cfde586be32.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema ACTION 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-action6.m3u8
+#EXTINF:0 tvg-id="50667" tvg-name="PlayerCinema SQUID GAME 1" tvg-logo="https://img.catcast.tv/uploads/04032026/logos/50667-69a86a1eb0892.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema SQUID GAME 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-squidgame1.m3u8
+#EXTINF:0 tvg-id="50673" tvg-name="PlayerCinema SQUID GAME 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50673-69a928202923a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema SQUID GAME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-squidgame 2.m3u8
+#EXTINF:0 tvg-id="50674" tvg-name="PlayerCinema SQUID GAME 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50674-69a929130ae93.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema SQUID GAME 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-squidgame3.m3u8
+#EXTINF:0 tvg-id="50675" tvg-name="PlayerCinema ALICE 1" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50675-69a9727ef09a6.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ALICE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-alice1.m3u8
+#EXTINF:0 tvg-id="50676" tvg-name="PlayerCinema ALICE 2" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50676-69a972e4d2b9a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ALICE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-alice2.m3u8
+#EXTINF:0 tvg-id="50677" tvg-name="PlayerCinema ALICE 3" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50677-69a9735212406.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ALICE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-alice3.m3u8
+#EXTINF:0 tvg-id="50783" tvg-name="PlayerCinema MARVEL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50783-69b8529ae02b6.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema MARVEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-marvel.m3u8
+#EXTINF:0 tvg-id="50784" tvg-name="PlayerCinema MARVEL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50784-69b8537549fc9.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema MARVEL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-marvel2.m3u8
+#EXTINF:0 tvg-id="50785" tvg-name="PlayerCinema  MARVEL 3" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50785-69b85819ea743.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema  MARVEL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-marvel3.m3u8
+#EXTINF:0 tvg-id="50943" tvg-name="PlayerCınema MARVEL 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50943-69cd5e07a35fb.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema MARVEL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-marvel4.m3u8
+#EXTINF:0 tvg-id="50944" tvg-name="PlayerCınema MARVEL 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50944-69cd5f2d86174.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema MARVEL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-marvel5.m3u8
+#EXTINF:0 tvg-id="50945" tvg-name="PlayerCınema MARVEL 6" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50945-69cd5f9675cef.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema MARVEL 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-marvel6.m3u8
+#EXTINF:0 tvg-id="50678" tvg-name="PlayerCinema CEHENNEM MELEKLERI" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50678-69b854a274d36.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema CEHENNEM MELEKLERI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinemacehennemmelekleri.m3u8
+#EXTINF:0 tvg-id="50680" tvg-name="PlayerCinema MATRIX" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50680-69b85207581a2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema MATRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-matrix.m3u8
+#EXTINF:0 tvg-id="50690" tvg-name="PlayerCinema RAMBO" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50690-69a977ee9e1fc.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema RAMBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-rambo.m3u8
+#EXTINF:0 tvg-id="50714" tvg-name="PlayerCinema ROCKY" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50714-69b858d925c96.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ROCKY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-rocky.m3u8
+#EXTINF:0 tvg-id="50713" tvg-name="PlayerCinema VAN DAMME" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50713-69b866532d69c.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema VAN DAMME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-vandamme.m3u8
+#EXTINF:0 tvg-id="50739" tvg-name="PlayerCinema VAN DAMME 2" tvg-logo="https://img.catcast.tv/uploads/17032026/logos/50739-69b866b6a082a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema VAN DAMME 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-vandamme2.m3u8
+#EXTINF:0 tvg-id="50715" tvg-name="PlayerCinema FORSAJ 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50715-69b85607df9c2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema FORSAJ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-forsaj1.m3u8
+#EXTINF:0 tvg-id="50716" tvg-name="PlayerCinema FORSAJ 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50716-69b85dbf8f071.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema FORSAJ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-forsaj2.m3u8
+#EXTINF:0 tvg-id="50691" tvg-name="PlayerCinema Olum Yarisi" tvg-logo="https://img.catcast.tv/uploads/05032026/logos/50691-69a978c3cac45.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Olum Yarisi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-olumyarisi.m3u8
+#EXTINF:0 tvg-id="50722" tvg-name="PlayerCinema MORTAL COMBAT" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50722-69b85179539b4.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema MORTAL COMBAT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-mortalcombat.m3u8
+#EXTINF:0 tvg-id="50718" tvg-name="PlayerCinema BOYKA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50718-69b8597a3e919.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema BOYKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-BOYKA.m3u8
+#EXTINF:0 tvg-id="50720" tvg-name="PlayerCinema JASON STATHAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50720-69b858555befb.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema JASON STATHAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-jasonstatham.m3u8
+#EXTINF:0 tvg-id="50723" tvg-name="PlayerCinema TRANSFORMER 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50723-69b84edc8fc00.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema TRANSFORMER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-transformer1.m3u8
+#EXTINF:0 tvg-id="50724" tvg-name="PlayerCinema TRANSFORMER 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50724-69b84ff0c9eeb.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema TRANSFORMER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-transformer2.m3u8
+#EXTINF:0 tvg-id="50725" tvg-name="PlayerCinema BOLLYWOOD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50725-69b8420210b55.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-bollywood.m3u8
+#EXTINF:0 tvg-id="50786" tvg-name="PlayerCınema BOLLYWOOD 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50786-69b8575732e68.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema BOLLYWOOD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-bollywood2.m3u8
+#EXTINF:0 tvg-id="50726" tvg-name="PlayerCinema ANTONIO BANDERAS" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50726-69b8550934bae.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema ANTONIO BANDERAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-antoniobanderas.m3u8
+#EXTINF:0 tvg-id="50728" tvg-name="PlayerCinema JACKE CHAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50728-69b85a74e3e05.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema JACKE CHAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-jackechan.m3u8
+#EXTINF:0 tvg-id="50729" tvg-name="PlayerCinema JACKE CHAN 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50729-69b85b04e1a58.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema JACKE CHAN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-jackechan2.m3u8
+#EXTINF:0 tvg-id="50730" tvg-name="PlayerCinema STIVEN SEGAL 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50730-69b85b54b3527.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema STIVEN SEGAL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-stivensegal1.m3u8
+#EXTINF:0 tvg-id="50731" tvg-name="PlayerCinema STIVEN SEGAL 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50731-69b85bda34550.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema STIVEN SEGAL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-stivensegal2.m3u8
+#EXTINF:0 tvg-id="50732" tvg-name="PlayerCinema PREMIUM 1" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50732-69b842872ed1b.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-premium 1.m3u8
+#EXTINF:0 tvg-id="50740" tvg-name="PlayerCinema PREMIUM 2" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50740-69b85ec57e564.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-premium2.m3u8
+#EXTINF:0 tvg-id="50955" tvg-name="PlayerCinema PREMIUM 3" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50955-69cd5c1905c28.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-premium3.m3u8
+#EXTINF:0 tvg-id="50960" tvg-name="PlayerCinema PREMIUM 4" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50960-69cd5cc5dd132.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema PREMIUM 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-premium4.m3u8
+#EXTINF:0 tvg-id="50961" tvg-name="PlayerCinema PREMIUM 5" tvg-logo="https://img.catcast.tv/uploads/01042026/logos/50961-69cd5d2c2ba69.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema PREMIUM 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-premium5.m3u8
+#EXTINF:0 tvg-id="51036" tvg-name="PlayerCinema_PREMIUM 6" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51036-69e27d03ce6bc.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema_PREMIUM 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema_premium-6.m3u8
+#EXTINF:0 tvg-id="50679" tvg-name="PlayerCinema CONTINENTAL" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50679-69b8507c65847.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema CONTINENTAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-kontinental.m3u8
+#EXTINF:0 tvg-id="50733" tvg-name="PlayerCinema JOHN WICK HD" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50733-69b85c35dad91.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema JOHN WICK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-johnwickhd.m3u8
+#EXTINF:0 tvg-id="50734" tvg-name="PlayerCinema BRUS LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50734-69b85cb53cd28.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema BRUS LEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-bruslee.m3u8
+#EXTINF:0 tvg-id="50736" tvg-name="PlayerCinema BRENDON LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50736-69b85d1bd7138.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema BRENDON LEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-brendonlee.m3u8
+#EXTINF:0 tvg-id="50953" tvg-name="PlayerCinema Universal-Esger" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50953-69cfdd6264db5.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Universal-Esger
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-universal-esger.m3u8
+#EXTINF:0 tvg-id="50738" tvg-name="PlayerCinema TERMINATOR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50738-69b85e36e8c9f.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema TERMINATOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-terminator.m3u8
+#EXTINF:0 tvg-id="50754" tvg-name="PlayerCinema IP MAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50754-69b856b1c0be0.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema IP MAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-ipman.m3u8
+#EXTINF:0 tvg-id="50750" tvg-name="PlayerCinema JET LEE" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50750-69b857ac8c926.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema JET LEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-jetlee.m3u8
+#EXTINF:0 tvg-id="50781" tvg-name="PlayerCinema BATMAN" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50781-69b841194d3e3.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema BATMAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-batman.m3u8
+#EXTINF:0 tvg-id="50782" tvg-name="PlayerCinema HORUMCEK ADAM" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50782-69b85f2e195b4.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema HORUMCEK ADAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-horumcekadam.m3u8
+#EXTINF:0 tvg-id="50947" tvg-name="PlayerCınema YIRTICI" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50947-69cfdc5610cd1.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema YIRTICI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-yirtici.m3u8
+#EXTINF:0 tvg-id="50948" tvg-name="PlayerCınema YIRTICI 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50948-69cfe05117edd.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCınema YIRTICI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercnema-yirtici2.m3u8
+#EXTINF:0 tvg-id="50749" tvg-name="PlayerCinema GODZILLA" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50749-69b85ff51dfd2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema GODZILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-godzilla 1.m3u8
+#EXTINF:0 tvg-id="50748" tvg-name="PlayerCinema MAYMUNLAR" tvg-logo="https://img.catcast.tv/uploads/16032026/logos/50748-69b85589bb5e1.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema MAYMUNLAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-maymunlar.m3u8
+#EXTINF:0 tvg-id="50553" tvg-name="PlayerCinema Fantastika" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50553-69940bdfc4f57.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Fantastika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-fantastika.m3u8
+#EXTINF:0 tvg-id="50520" tvg-name="PlayerCinema John Wick" tvg-logo="https://img.catcast.tv/uploads/17022026/logos/50520-69940a585fb6f.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema John Wick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkanal.m3u8
+#EXTINF:0 tvg-id="50392" tvg-name="PlayerCinema Hind Filmleri" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50392-698f71a8e945c.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind Filmleri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hindfilmleri.m3u8
+#EXTINF:0 tvg-id="50892" tvg-name="PlayerCinema Hind_filmleri-2" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50892-69c69eb857e60.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind_filmleri-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hind_filmleri-2.m3u8
+#EXTINF:0 tvg-id="50893" tvg-name="PlayerCinema Hind_Filmleri-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50893-69c69dbfebba8.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind_Filmleri-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hind_filmleri-3.m3u8
+#EXTINF:0 tvg-id="50894" tvg-name="PlayerCinema Hind_Filmleri-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50894-69c69e670da6f.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind_Filmleri-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hind_filmleri-4.m3u8
+#EXTINF:0 tvg-id="50895" tvg-name="PlayerCinema Hind_Filmleri-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50895-69c69d5b0f83a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind_Filmleri-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hind_filmleri-5.m3u8
+#EXTINF:0 tvg-id="50897" tvg-name="PlayerCinema Hind_Filmleri-6" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50897-69c6d36d7c41f.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Hind_Filmleri-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hind_filmleri-6.m3u8
+#EXTINF:0 tvg-id="50638" tvg-name="Player VETEN OĞLU" tvg-logo="https://img.catcast.tv/uploads/27022026/logos/50638-69a1b05bbd70e.png" group-title="PLAYER TV(DedMasterIPTV)",Player VETEN OĞLU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=player-vetenolu.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/6QqR8nyV/In-Shot-20260329-114731844.png" group-title="PLAYER TV(DedMasterIPTV)",Player Qarabağ döyüşləri
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-vetenolu.m3u8
+#EXTINF:0 tvg-id="50372" tvg-name="PlayerCinema Aze_Dublaj-1" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50372-698f70090712e.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublyaj-1.m3u8
+#EXTINF:0 tvg-id="50881" tvg-name="PlayerCinema Aze_Dublaj-2" tvg-logo="https://img.catcast.tv/uploads/26032026/logos/50881-69c45bafc54d5.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-2.m3u8
+#EXTINF:0 tvg-id="50885" tvg-name="PlayerCinema Aze_Dublaj-3" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50885-69c69f263f637.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-3.m3u8
+#EXTINF:0 tvg-id="50889" tvg-name="PlayerCinema-Aze_Dublaj-4" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50889-69c69f94437c2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema-Aze_Dublaj-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-4.m3u8
+#EXTINF:0 tvg-id="50891" tvg-name="PlayerCinema-Aze_Dublaj-5" tvg-logo="https://img.catcast.tv/uploads/27032026/logos/50891-69c6a005e41c9.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema-Aze_Dublaj-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-5.m3u8
+#EXTINF:0 tvg-id="50923" tvg-name="PlayerCinema Aze_Dublaj-6" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50923-69ca9c7d5bb55.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-6.m3u8
+#EXTINF:0 tvg-id="50924" tvg-name="PlayerCinema Aze_Dublaj-7" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50924-69ca8d6004842.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-7.m3u8
+#EXTINF:0 tvg-id="50926" tvg-name="PlayerCinema Aze_Dublaj-8" tvg-logo="https://img.catcast.tv/uploads/30032026/logos/50926-69caa025e5212.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-8.m3u8
+#EXTINF:0 tvg-id="50928" tvg-name="PlayerCinema Aze_Dublaj-9" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50928-69cc1677cb6dc.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-9.m3u8
+#EXTINF:0 tvg-id="50929" tvg-name="PlayerCinema Aze_Dublaj-10" tvg-logo="https://img.catcast.tv/uploads/31032026/logos/50929-69cc15964546d.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCinema Aze_Dublaj-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublaj-10.m3u8
+#EXTINF:0 tvg-id="50472" tvg-name="PlayerFilm AZERBAYCAN" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50472-6985de4278ec8.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerFilm AZERBAYCAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan.m3u8
+#EXTINF:0 tvg-id="50917" tvg-name="PlayerFilm Azerbaycan-2" tvg-logo="https://img.catcast.tv/uploads/29032026/logos/50917-69c97390794cb.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerFilm Azerbaycan-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan-2.m3u8
+#EXTINF:0 tvg-id="50500" tvg-name="PlayerKomedi BOZBASH PICTURES 1" tvg-logo="https://img.catcast.tv/uploads/11022026/logos/50500-698c4dac79c98.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi BOZBASH PICTURES 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpictures1.m3u8
+#EXTINF:0 tvg-id="50393" tvg-name="PlayerKomedi BOZBASH PICTURES 2" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50393-698b493dabd60.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi BOZBASH PICTURES 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpikcher.m3u8
+#EXTINF:0 tvg-id="50515" tvg-name="PlayerKomedi Bu Şeherde" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50515-698f8bc85844b.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Bu Şeherde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bueherde.m3u8
+#EXTINF:0 tvg-id="50527" tvg-name="PlayerKomedi Bu Şeherde 2" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50527-6990e8c4e14c6.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Bu Şeherde 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bueherde2.m3u8
+#EXTINF:0 tvg-id="50471" tvg-name="PlayerFilm TURKIYE" tvg-logo="https://img.catcast.tv/uploads/06022026/logos/50471-698617f126fce.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerFilm TURKIYE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm turkiye.m3u8
+#EXTINF:0 tvg-id="50369" tvg-name="PlayerKomedi Деревня Дураков" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50369-698b36bbafa98.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Деревня Дураков
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-деревнядураков.m3u8
+#EXTINF:0 tvg-id="50490" tvg-name="PlayerKomedi Roman Havasi" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50490-698f8d372cccc.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Roman Havasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-romanhavasi.m3u8
+#EXTINF:0 tvg-id="50489" tvg-name="PlayerKomedi Cennet Mahallesi" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50489-698b41a1daa09.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Cennet Mahallesi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-cennetmahallesi.m3u8
+#EXTINF:0 tvg-id="50501" tvg-name="PlayerKomedi Cennet Mahallesi 2" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50501-698f78b9e6144.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Cennet Mahallesi 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-cennetmahallesi2.m3u8
+#EXTINF:0 tvg-id="50433" tvg-name="PlayerKomedi Kemal Sunal" tvg-logo="https://img.catcast.tv/uploads/13022026/logos/50433-698f738922042.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Kemal Sunal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-kemalsunal.m3u8
+#EXTINF:0 tvg-id="50432" tvg-name="PlayerKomedi Kemal Sunal 2" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50432-698f83cc4a740.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Kemal Sunal 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playertest.m3u8
+#EXTINF:0 tvg-id="50563" tvg-name="PlayerKomedi Kemal Sunal 3" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50563-69959de11ed7a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Kemal Sunal 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-kemalsunal 3.m3u8
+#EXTINF:0 tvg-id="50564" tvg-name="PlayerKomedi Şener Şen" tvg-logo="https://img.catcast.tv/uploads/24022026/logos/50564-699d424f63003.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerKomedi Şener Şen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playertrk-eneren.m3u8
+#EXTINF:0 tvg-id="50428" tvg-name="PlayerWWE" tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50428-698b472767a59.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerWWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerwwe.m3u8
+#EXTINF:0 tvg-id="50958" tvg-name="PlayerCizgiFilm PANDA 1" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50958-69cfdb19cb169.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm PANDA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-panda1.m3u8
+#EXTINF:0 tvg-id="50959" tvg-name="PlayerCizgiFilm PANDA 2" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50959-69cfdb72e3a1c.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm PANDA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-panda2.m3u8
+#EXTINF:0 tvg-id="51035" tvg-name="PlayerCizgiFilm_Buz-Devri" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51035-69e27e41261be.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm_Buz-Devri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm_buz-devri.m3u8
+#EXTINF:0 tvg-id="51037" tvg-name="PlayerCizgiFilm_BERNARD" tvg-logo="https://img.catcast.tv/uploads/17042026/logos/51037-69e2805802e3b.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm_BERNARD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm_bernard.m3u8
+#EXTINF:0 tvg-id="50849" tvg-name="PlayerCizgiFilm TOM ve JERRY" tvg-logo="https://img.catcast.tv/uploads/21032026/logos/50849-69bdb3e603214.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm TOM ve JERRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-tomvejerry.m3u8
+#EXTINF:0 tvg-id="50560" tvg-name="PlayerCızgıFılm Maşa veAyı" tvg-logo="https://img.catcast.tv/uploads/18022026/logos/50560-69959ebbe8f76.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCızgıFılm Maşa veAyı
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerczgflm-maaveay.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/zDyrxBgL/In-Shot-20260329-115838529.png" group-title="Azərbaycan",Player Sevimlilər
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-sevmller.m3u8
+#EXTINF:0 tvg-id="50941" tvg-name="PlayerCizgiFilm Maşınlar" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50941-69cfdbde2928a.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm Maşınlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-maşınlar.m3u8
+#EXTINF:0 tvg-id="50954" tvg-name="PlayerCizgiFilm MADAGASCAR" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50954-69cfec2b5b09e.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm MADAGASCAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-madagascar.m3u8
+#EXTINF:0 tvg-id="50957" tvg-name="PlayerCizgiFilm Şrek&Ejdaha" tvg-logo="https://img.catcast.tv/uploads/03042026/logos/50957-69cff1514aabb.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerCizgiFilm Şrek&Ejdaha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-rekejdaha.m3u8
+#EXTINF:0 tvg-id="50538" tvg-name="PlayerTOY Mahnıları" tvg-logo="https://img.catcast.tv/uploads/16022026/logos/50538-6992c7f789dd2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerTOY Mahnıları
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playertoy-mahnlar.m3u8
+#EXTINF:0 tvg-id="50350" tvg-name="PlayerMusic Aze" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50350-6990ed0d9e8d2.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerMusic Aze
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playermusic aze.m3u8
+#EXTINF:0 tvg-id="50366" tvg-name="PlayerGencMusic az" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50366-6990e09548e83.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerGencMusic az
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playergencmusic-az.m3u8
+#EXTINF:0 tvg-id="50364" tvg-name="PlayerMeyxana TV" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50364-6990ea3069e47.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerMeyxana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playermeyxana-tv.m3u8
+#EXTINF:0 tvg-id="50368" tvg-name="PlayerZevqMusic" tvg-logo="https://img.catcast.tv/uploads/14022026/logos/50368-698f84ff051de.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerZevqMusic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerzevqmusic.m3u8
+#EXTINF:0 tvg-id="50342" tvg-name="PlayerMusic HIT" tvg-logo="https://img.catcast.tv/uploads/15022026/logos/50342-6990e1ed8229d.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerMusic HIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playermusic.m3u8
+#EXTINF:0 tvg-id="50578" tvg-name="PlayerHind MUSIC" tvg-logo="https://img.catcast.tv/uploads/20022026/logos/50578-6998335b5d46d.png" group-title="PLAYER TV(DedMasterIPTV)",PlayerHind MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referer=https://catcast.tv/
+https://catcast-tv2.koprulu2.workers.dev/?id=playerhind-music.m3u8
 
 
 #EXTINF:-1,SDM Sinema keyfi
