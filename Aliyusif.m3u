@@ -167,9 +167,15 @@ https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50817/seg-25893931-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/gnIazRJ.png", YANSIMA music
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
 #EXTINF:-1,Yansima90Danstv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50616/seg-26091737-v1-a1/index.m3u8
@@ -188,9 +194,9 @@ https://catcast.ismailturret.workers.dev/50879.m3u8
 #EXTINF:-1,TE tv
 #EXTGRP:Azerbaycan
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
+#EXTINF:-1 tvg-logo="https://imgur.com/a/jC20RNx.png",TeleOn tv
 #EXTGRP:Azerbaycan
-http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
+http://teleontv-kick.streams-supersatforum.workers.dev/TELEONTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.182/d/live/out.m3u8
@@ -317,9 +323,6 @@ https://v2.catcast.tv/content/50825/seg-25902084-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQH7RJf.png", NEOplay AZ
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3674/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV music
-#EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
@@ -329,6 +332,8 @@ https://catcast.ismailturret.workers.dev/rihattv.m3u8
 #EXTINF:-1,tvg-logo="https://img.catcast.tv/uploads/14012026/banners/50294-696794fda8784.png",STV AZ
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50294/seg-25902977-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
+http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
 #EXTINF:-1 tvg-logo="https://knmusictv.com/wp-content/themes/tmbtvaz/img/tmbtv.png"  group-title="Azerbaycan", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2957.png"  group-title="Azerbaycan", Könül music
