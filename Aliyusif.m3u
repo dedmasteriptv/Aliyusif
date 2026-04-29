@@ -174,6 +174,198 @@ http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrC
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 4 ᵏᵃᵑᵏᵃ
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
+#EXTGRP:Azerbaycan
+http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-belgesel
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50903/seg-26002713-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-kend-heyati
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50907/seg-26004854-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png", mr.bean
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/mrbean.m3u8
+#EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png",Şaban tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png",SIRIUS TV AZ film
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50904/seg-26002688-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-gaydasiz doyusler
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50950/seg-26028691-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Horror
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50920/seg-26011954-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-hind-filmleri
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50901/seg-25997429-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-retro-filmler 2
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50853/seg-25938046-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-retro-filmler
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50852/seg-25938055-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bozbash-production
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50854/seg-25938027-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Yesilcam
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50168/seg-25410189-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Hababam tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50271/seg-25410477-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50908/seg-26004931-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-bu seherde+
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50912/seg-26005180-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50170/seg-25409947-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50172/seg-25409926-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50271/seg-25410155-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50817/seg-25893931-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.zerocdn.com/946924681/YANSIMA_TV2.gif", YANSIMA SİNEMA 2 HDᵀᴿ
+#EXTGRP:Azerbaycan
+https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
+#EXTINF:-1,Yansima90Danstv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50616/seg-26091737-v1-a1/index.m3u8
+#EXTINF:-1,Yansimaslowsarkilar
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
+#EXTINF:-1,Underworld
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50751/seg-25886751-v1-a1/index.m3u8
+#EXTINF:-1,Bladebox
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50694/seg-25886798-v1-a1/index.m3u8
+#EXTINF:-1,FimBOX Çocuk
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/50879.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Dag
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50761/seg-25886725-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FIeuoBC.png",Fanatik Max Yesilcam
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Korku
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50717/seg-25826740-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Prime Avrupa Yakası
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50846/seg-25938086-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Prime Eşref Tek
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50827/seg-25926266-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",fanatik prime kurtlar vadisi
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50688/seg-25826752-v1-a1/index.m3u8
+#EXTINF:-1tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png" ,Fanatik Prime Bizimkiler
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50840/seg-25926242-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",Fanatik Max Deadpool
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50742/seg-25842863-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png",Fanatik Music Rojda
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50810/seg-25886676-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png",Fanatik Music Nastolji
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50737/seg-25826706-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wMWI2w.png",Fanatik Kids Tom&Jerry
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50837/seg-25926257-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",fanatik prime Ed Stafford ile Kurtuluş Öyküleri
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50693/seg-25826748-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01042026/banners/50938-69cd8303c4840.png",fanatik prime kurtlar vadisi
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50688/seg-25826752-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wMWI2w.png",Fanatik Kids Pepee
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50806/seg-25886684-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png",Fanatik Music Neşet Ertaş
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50805/seg-25886693-v1-a1/index.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/7wMWI2w.png" ,Fanatik Kids Şarkılar
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50758/seg-25886741-v1-a1/index.m3u8
+#EXTINF:-1tvg-logo="https://i.imgur.com/7wMWI2w.png" ,Fanatik Kids Caillou
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50825/seg-25902084-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10092025/banners/48076-68c1c541356ea.png",EKRAN85
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/rihattv.m3u8
+#EXTINF:-1,tvg-logo="https://img.catcast.tv/uploads/14012026/banners/50294-696794fda8784.png",STV AZ
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50294/seg-25902977-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Meyxana-tv
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50921/seg-26011934-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Slow Musiqiler
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50851/seg-25938065-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Mugam dunyamiz
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50179/seg-25410331-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Solo Konsert
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50178/seg-25410254-v1-a1/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/nrKjK27R/In-Shot-20250214-113847550.png" ,NOW Music tv az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48110/seg-25410036-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/16052025/banners/48694-68267c083c337.png",NOW Music az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/24022026/logos/27146-699cb664e5bd5.png",Bayzan muzic
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50202/seg-25409994-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25022026/logos/50514-699e157e24c80.png",Bayzan-HITS
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/bayzan-hits.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png",Ulduz Music az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freeflagicons.com/thumb/music_icon/azerbaijan/azerbaijan_640.png",Music Tv Az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50359/seg-25555275-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21012026/banners/50312-697110c9cedd5.png",ELA MUSIC turk
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50312/seg-25410417-v1-a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gkykB4xc/In-Shot-20260209-101752277.png" group-title="Azerbaycan",MİX MUSİC ᵏᵃᵑᵏᵃ
+https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png",ALVIN Music
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
 #EXTGRP:Azerbaycan
 http://live.smartglwiz.workers.dev/?ID=GemAZ_HD
@@ -231,9 +423,33 @@ http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Masa ve Ayi
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50171/seg-25409844-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-animasyon
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50919/seg-26011967-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-Keloglan
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50198/seg-25410305-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Az mult
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/843/693/png-transparent-masha-and-the-bear-illustration-masha-and-the-bear-stuffed-animals-cuddly-toys-animation-television-show-masha-and-the-bear-television-child-animals-thumbnail.png",Sinema Masha i medved
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/17052023/logos/17338-6465269d0ff2c.png" ,TOM and JERRY 2
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/43075/seg-25410727-v1-a1/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/T2Stvqb2/In-Shot-20260301-114437616.png" group-title="Azerbaycan",FİDAN(uşaq) ᵏᵃᵑᵏᵃ
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
-
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейл HD
 #EXTGRP:Azerbaycan
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
